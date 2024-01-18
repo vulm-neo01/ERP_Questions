@@ -1,0 +1,563 @@
+STT,Câu hỏi,Chương,A,B,C,D
+1,Lĩnh vực chuyển đổi số nào tập trung vào việc sử dụng công nghệ để cải thiện hiệu quả của các quy trình kinh doanh hiện có?,1,[x] Chuyển đổi quy trình,[] Chuyển đổi mô hình kinh doanh,[] Chuyển đổi miền thị trường,[] Chuyển đổi cơ cấu tổ chức và văn hóa doanh nghiệp
+2,Chuyển đổi mô hình kinh doanh trong quá trình chuyển đổi số nhằm mục đích gì?,1,[x] Tạo ra mô hình kinh doanh mới để thích ứng với thị trường số.,[] Tăng hiệu suất sản xuất.,[] Cải thiện văn hóa tổ chức.,[] Mục tiêu tăng doanh số bán hàng.
+3,"Trong quá trình chuyển đổi số, tại sao việc chuyển đổi cơ cấu tổ chức và văn hóa doanh nghiệp là quan trọng?",1,[x] Tạo ra sự linh hoạt và nhanh nhẹn hơn trong quyết định kinh doanh.,[] Duy trì các quy trình truyền thống để giữ vững văn hóa tổ chức.,[] Giảm động lực cho nhân viên.,[] Giảm chi phí chuyển đổi.
+4,Đâu là một trong những lĩnh vực chính của quá trình chuyển đổi số?,1,[x] Chuyển đổi quy trình,[ ] Chuyển đổi sản phẩm,[ ] Chuyển đổi quy mô kinh doanh,[ ] Chuyển đổi phương pháp thanh toán
+5,Chữ T trong SWOT là viết tắt của,2,[x] Threats,[ ] Trend,[ ] Trick,[ ] Technology
+6,Đâu không phải 1 trong 5 nhóm chức năng nghiệp vụ cơ bản?,2,[x]Technology,[ ] Strategy,[ ] Human resource,[ ] Operation
+7,Cơ cấu tổ chức(OS) nào là phổ biến nhất hiện nay ?,2,[x] Cấu trúc chức năng,[ ] Cấu trúc bộ phận,[ ] Cấu trúc phẳng,[ ] Cấu trúc ma trận
+8,Cơ cấu tổ chức nào là phù hợp và tốt nhất cho mọi doanh nghiệp?,2,[ ] Cấu trúc bộ phận,[ ] Cấu trúc Agile,[ ] Cấu trúc chức năng,[ x] Không có OS nào là tốt nhất cho mọi doanh nghiệp
+9,"Quá trình nhận dạng điểm mạnh, yếu, cơ hội, thách thức gọi là:",2,[X]Phân tích SWOT,[]Phân tích PEST,[]Lực lượng của Porter,[]Phân tích chuỗi giá trị
+10,Hình thức doanh nghiệp do một người sở hữu và quản lý gọi là:,2,[]Doanh nghiệp hợp danh,[]Doanh nghiệp tư nhân,[]Công ty cổ phần,[]Công ty trách nhiệm hữu hạn
+11,Cách phân loại cơ cấu tổ chức doanh nghiệp mà trong đó hầu hết tất cả các nhân viên đều tham gia vào quá trình ra quyết định và báo cáo tập trung là cách phân loại dựa theo:,2,[x] Cấu trúc phẳng,[] Cấu trúc bộ phận,[] Cấu trúc chức năng,[] Cấu trúc ma trận
+12,CRM là viết tắt của cụm từ nào sau đây?,2,[]Customer Revenue Management,[x]Customer Relationship Management,[]Customer Retention Marketing,[]Customer Response Management
+13,Yếu tố nào sau đây không nằm trong việc phân tích SWOT?,2,[] Weaknesses,[] Threats,[] Opportunities,[x] Sustainability
+14,Nhóm chức năng nào chịu trách nhiệm xác định mục tiêu và hướng đi của doanh nghiệp?,2,[x] Chiến lược,[] Tiếp thị và Bán hàng,[] Kế toán và Tài chính,[] Nguồn nhân lực
+15,HR đảm nhận trách nhiệm chính là gì?,2,[x] Xây dựng và duy trì nguồn nhân lực chất lượng.,[] Quản lý các quy trình vận hành.,[] Phát triển chiến lược tiếp thị.,[] Giám sát tình hình tài chính.
+16,Tiếp thị và Bán hàng đóng vai trò quan trọng trong:,2,[x] Tiếp cận và giữ chân khách hàng.,[] Phát triển chiến lược tài chính.,[] Xây dựng nguồn nhân lực chất lượng.,[[ Quản lý các quy trình vận hành.
+17,Cách phân loại doanh nghiệp nào sau đây là sai?,2,"[] Kích thước ( Big, SME, Micro)","[] Ngành nghề Kinh doanh ( Sản suất,
+XNK, Phần mềm … )","[] Loại hình ( Public, Private, FDI,
+NGO )","[x] Tuổi doanh nghiệp (5 năm tuổi, 10 năm tuổi,...)"
+18,Đâu là mô tả sai về thương mại điện tử (E-commerce),2,[] Là nơi diễn ra các giao dịch kinh doanh thông qua mạng Internet,[] Giúp mở rộng thị trường của doanh nghiệp ra thị trường trong nước và quốc tế,[x] Là nền tảng cốt lõi cần thiết để xây dựng và vận hành một hệ thống bán hàng hoá trực tuyến,"[] Cơ sở hạ tầng cho EC là một môi trường máy tính kết nối mạng trong kinh doanh, nhà dân và chính phủ"
+19,Đâu là đầu vào của chức năng tiếp thị và bán hàng?,2,[x] Chi phí vận chuyển,[] Chiến lược bán hàng,[] Giá sản phẩm,[] Nhu cầu tuyển dụng
+20,"Trong hệ thống thông tin, khái niệm ""Stakeholders"" là gì?",2,[x]Các bên liên quan có liên quan đến hệ thống,[]Người phân tích hệ thống,[]Người quản lý dự án,[]Chuyên gia bảo mật
+21,Đâu là Quy tắc hướng kinh doanh,3,[x]Visions,[x]Outline,[ ]Standard,[ ]Landscape
+22,Đâu là Quy tắc tập trung vào CNTT,3,[ ]Visions,[x]Designs,[x ]Standard,[x ]Landscape
+23,cung cấp các chế độ xem có cấu trúc ('bản đồ') về tất cả các khả năng kinh doanh của tổ chức là vai trò của:,3,"[x]Business capability 
+models (BCMs)",[ ]Landscape diagrams,[ ]roadmaps,[ ]Solution designs
+24,Vai trò của Togaf ADM,3,"[x]cung 
+cấp khả năng quản lý 
+vòng đời để tạo và 
+quản lý kiến ​trúc 
+trong doanh nghiệp","[ ]định nghĩa giải pháp, thiết kế 
+chi tiết, kiến ​trúc giải pháp đầy 
+đủ, kiến ​trúc khởi động dự án","[ ]cung cấp các quan 
+điểm có cấu trúc về 
+các khoản đầu tư 
+CNTT trong tương lai 
+được lên kế hoạch 
+với các mốc thời gian 
+dự kiến ​của chúng 
+phù hợp với các khả 
+năng hoặc lĩnh vực 
+kinh doanh khác 
+nhau","[ ] cung cấp các chế độ xem có 
+cấu trúc ('bản đồ') về tất cả 
+các khả năng kinh doanh của 
+tổ chức"
+25,4 loại lĩnh vực kiến trúc doanh nghiệp là:,3,"[x] Business, Data, Application, Technology","[ ] Business, Data, Services, Technology","[ ] Business, Data, Services, 
+Network","[ ] Business, Data, Application,
+Network"
+26,EA Framewwork nào có cốt lõi là Phương pháp Phát triển Kiến trúc (ADM).,3,[ ] Zachman,[x] TOGAF,[ ] FEAF,[ ] Gartner INC
+27,Kiến trúc hệ thống thông tin là pha nào trong kiến trúc TOGAF?,3,[x] C,[] A,[] B,[] D
+28,"Trong kiến trúc TOGAF, biểu đồ Usecase có thể được tạo trong pha nào sau đây?",3,[x] D - Kiến trúc công nghệ,[] A - Tầm nhìn kiến trúc,[] E - Cơ hội và giải pháp,[] G - Kế hoạch chuyển đổi
+29,"TOGAF dựa trên bốn lĩnh vực chuyên môn có liên quan với nhau được gọi là miền kiến ​​trúc, đâu không phải là một trong 4 lĩnh vực chuyên môn trên?",3,[]Kiến trúc kinh doanh,[]Kiến trúc dữ liệu hoặc thông tin,[]Kiến trúc ứng dụng,[x]Kiến trúc hạ tầng doanh nghiệp
+30,Phát biểu nào sau đây là sai về Togaf ADM,3,[] Togaf ADM là một quy trình lặp,[] Trung tâm của Togaf ADM là Quản lý các yêu cầu (Requirements Management),"[x] Các tầng côt lõi (Core Layers) tương ứng với 4 pha của Togaf ADM là pha A, pha B, pha C và pha D",[] Mục đích của Togaf ADM là phát triển kiến trúc doanh nghiệp
+31,Các sáng kiến hoặc dự án CNTT riêng biệt thuộc loại EA Artifact nào?,3,[] Permanent EA Artifacts,[x] Temporary EA Artifacts,[] Decisions EA Artifacts,[] Facts EA Artifacts
+32,Pha E trong kiến trúc TOGAF là gì,3,[x] Cơ hội và giải pháp,[] Kiến trúc kinh doanh,[] Kiến trúc Hệ thống thông tin,[] Lập kế hoạch thay đổi
+33," ""Tôn trọng sự đa dạng, đề cao việc tích hợp các thành phần không đồng nhất"" đây là mô tả phân loại cơ cấu tổ chức theo cấu trúc nào?",3,[x] Cấu trúc bộ phận,[ ] Cấu trúc chức năng,[ ] Cấu trúc ma trận,[ ] Cấu trúc phẳng
+34,2 bước chính trong xây dựng hệ thống thông tin là,3,[x] Phân tích hệ thống và thiết kế hệ thống,[ ] Xây dựng hệ thống và lấy phản hồi từ khách hàng,[ ] Thiết kế chức năng và thiết kế giao diện,[ ] Xây dựng mẫu thử và xây dựng hệ thống thật
+35,ROI trong IS là gì?,3,[x] Chỉ số xác định tỉ số hiệu quả cải thiện tính theo phần trăm so với năng suất khi chưa sử dụng hệ thống.,[ ] Chỉ số xác định tỉ số lợi ích được tạo ra tính theo phần trăm so với chi phí đầu tư vào hệ thống.,[ ] Chỉ số xác định tỉ số nhân công có thể cắt giảm được khi sử dụng hệ thống.,[ ] Chỉ số xác định tỉ số thời gian giải quyết trước và sau khi sử dụng hệ thống.
+36,Các thành phần của hệ thống thông tin?,3,"[x] Con người, Phần cứng, Phần mêm, Mạng, Chiến lược và quy trình","[ ] Con người, Phần cứng, Phần mêm","[ ] Mạng, Chiến lược và quy trình","[ ] Phần cứng, Phần mêm, Mạng"
+37,Công thức tính Productivity ?,4,[x] Output/Input,[ ] Output x Input,[ ] Output + Input,[ ] Output - Input
+38,Lợi tức đầu tư được viết tắt là ?,4,[x] ROI,[ ] CTO,[ ] EIS,[ ] RIO
+39,Phát biểu nào sau đây đúng ?,4,[x] IT là 1 phần của IS,[ ] IS là 1 phần của IT,[ ] IT và IS không liên quan đến nhau,[ ] Procedure không phải 1 phần của IS
+40,EDMS là viết tắt của ?,4,[x] hệ thống quản lý tài liệu điện tử,[ ] hệ thống quản lý nhân sự,[ ] hệ thống quản lý nội dung doanh nghiệp,[ ] quản lý quan hệ khách hàng
+41,Đâu là hoạt động của hệ thống thông tin,4,[x]Processing,[x]Feedback,[x]Scope,[ ]running
+42,Chức năng của kiến trúc ứng dụng,4,"[x]cung cấp một danh mục quan trọng về các ứng 
+dụng trong doanh nghiệp, mô tả công việc mà chúng thực hiện để 
+chuyển đổi, truyền tải và lưu trữ thông tin.","[x]c mô tả giao diện được yêu cầu bởi các ứng dụng cũng như 
+cách các ứng dụng tương tác để thực hiện các hoạt động trong các mô 
+hình kinh doanh","[ ]cung 
+cấp khả năng quản lý 
+vòng đời để tạo và 
+quản lý kiến ​trúc 
+trong doanh nghiệp",[ ]tất cả đáp án trên
+43,Phân tích và thiết kế hệ thống chủ yếu tập trung vào,4,[x]con người,[ x]quy trình,[x]công nghệ,[ ]hệ thống
+44,Năm thành phần tạo nên một hệ thống thông tin là gì?,4,"[x]Con người,Phần cứngPhần mềmHệ thống mạngTài nguyên dữ liệu","[ ]Con người,Máy tính,Phần mềm,Hệ thống mạng,Tài nguyên dữ liệu","[ ]Con người,Phần cứng,Phần mềm,Công nghệ,Tài nguyên dữ liệu","[ ]Con người,Phần cứng,Phần mềm,Hệ thống mạng,Máy tính"
+45,Đâu là đặc điểm của hệ thống thông tin điều hành,4,[x]Hỗ trợ quản lý chiến lược cấp cao,[x]Sử dụng dữ liệu quan trọng từ các hệ thống khác,"[ ]hỗ trợ các hoạt động ra quyết định của doanh nghiệp hoặc tổ 
+chức.","[ ]quản lý giao dịch, ghi nhận dữ liệu"
+46,Tính năng chính của Hệ thống xử lý giao dịch là gì?,4,[x]Ghi nhận dữ liệu giao dịch,[ ]Quản lý nhân sự,[ ]Quản lý tài chính,[ ]Marketing
+47,Một ví dụ điển hình của TPS là gì?,4,[x]Hệ thống máy chấm công,[ ]Hệ thống email,[ ] Hệ thống giám sát nhân viên,[ ]Hệ thống video call
+48,ATM thuộc loại hệ thống nào sau đây?,4,[x]Hệ thống xử lý giao dịch,[ ]Tích hợp,[ ]Giao dịch điểm bán hàng,[ ]Hệ thống kế toán
+49,Phòng ban nào sau đây không sử dụng Hệ thống xử lý giao dịch (TPS)?,4,[x]Nghiên cứu và phát triển,[ ]Marketing,[ ]Tài chính,[ ]Kế toán
+50,Đặc điểm nào sau đây không phải là đặc điểm của hệ thống thông tin điều hành?,4,[x]Tích hợp thông tin từ hệ thống thông tin quản lý,[ ]Sử dụng dữ liệu quan trọng từ các hệ thống khác,[ ]Phát triển kinh tế và tin tức thị trường,[ ] Hỗ trợ quản lý chiến lược cấp cao
+51,"Khái niệm ""Portal Concept"" trong EIS là gì?",4,[x]Một nơi có liên kết đến tất cả thông tin,[ ]Hệ thống tích hợp thông tin bên ngoài,[ ]Hỗ trợ quản lý chiến lược,[ ]Sử dụng dữ liệu quan trọng từ các hệ thống khác
+52,"Trong các phát biểu sau về hệ thống thông tin doanh nghiệp (BIS), phát biểu nào dưới đây là không đúng?",4,"[]Hệ thống Thông tin Doanh nghiệp là hệ thống thông tin giúp cải thiện các chức năng, các quy trình kinh doanh của doanh nghiệp.",[x]Hệ thống thông tin doanh nghiệp được áp dụng để phát triển một kiến ​​trúc doanh nghiệp đáp ứng nhu cầu kinh doanh và công nghệ thông tin của một tổ chức.,[]Hệ thống thông tin doanh nghiệp có thể được tích tích hợp từ nhiều các hệ thống thành phần.,[]Hệ thống thông tin doanh nghiệp không thể đạt được bằng tổng các chức năng của hệ thống con
+53,Các loại hệ thống thông tin trong doanh nghiệp?,4,[] Theo cấp độ kinh doanh,[] Theo năng lực kinh đoan,[] Theo quy trình nghiệp vu,[x] Cả 3 đáp án trên
+54,EIS là gì?,4,[] Hệ thống quán lý thông tin,[] Hệ thống hỗ trợ ra quyết định,[x] Hệ thống thông tin diều hành,[] Hệ thống cộng tác doanh nghiệp
+55,Chức năng chính của EIS là gì,4,[x] Hỗ trợ quản lý chiến lược cấp cao và nhu cầu ra quyết định,[] Tổ chức các sự kiện hàng năm,[] Quản lý các giao dịch giao hàng,[] Đo lường hiệu suất công việc hàng ngày
+56,Đâu là đặc điểm của hệ thống chuyên gia?,4,[x] là HTTT hướng máy tính đưa ra các đề xuất và các hoạt động giống như chuyên gia giúp nâng cao hiệu suất của người dùng mới,[] Là cấu trúc tương tác dựa trên máy tính và hệ thống con nhằm giúp các nhà ra quyết định sử dụng công nghệ để nâng cao hiệu quả mô hình,"[] Là một hệ thống thông tin được sử dụng để tạo điều kiện chia sẻ hiệu quả tài liệu và kiến thức giữa
+các nhóm và cá nhân trong một doanh nghiệp",[] là một loại hệ thống hỗ trợ quản lý tạo điều kiện và hỗ trợ thông tin điều hành cấp cao và nhu cầu ra quyết định
+57,Mục đích của hệ thống thông tin doanh nghiệp?,4,"[] Hệ thống thông tin doanh nghiệp cung cấp một hệ thống duy nhất đóng vai trò trung tâm trong tổ chức nhằm đảm bảo thông tin có thể được chia sẻ trên tất cả các cấp chức năng và hệ 
+thống phân cấp quản lý ",[] Hệ thống thông tin doanh nghiệp cung cấp một nền tảng công nghệ cho phép các tổ chức tích hợp và điều phối các quy trình kinh doanh,[] có thể được sử dụng để hợp nhất các ứng dụng hiện có.,[x] Cả 3 đáp án trên
+58,Hệ thống thông tin trong doanh nghiệp là gì?,4,"[x] Một hệ thống bao gồm con người, dữ liệu, phần mềm và thiết bị được kết nối với nhau để thu thập, xử lý và phân phối thông tin.","[] Một hệ thống bao gồm dữ liệu, phần mềm và thiết bị được kết nối với nhau để thu thập, xử lý và phân phối thông tin.","[] Một hệ thống bao gồm con người, dữ liệu và thiết bị được kết nối với nhau để thu thập, xử lý và phân phối thông tin.","[] Một hệ thống bao gồm dữ liệu và thiết bị được kết nối với nhau để thu thập, xử lý và phân phối thông tin."
+59,Các thành phần chính của hệ thống thông tin trong doanh nghiệp là gì?,4,"[x] Con người, dữ liệu, phần mềm và thiết bị.","[] Dữ liệu, phần mềm và thiết bị.",[] Con người và dữ liệu.,[] Dữ liệu và thiết bị.
+60,Con người trong hệ thống thông tin trong doanh nghiệp đóng vai trò gì?,4,[x] Cả ba vai trò trên.,[] Xử lý dữ liệu.,[] Phân phối thông tin.,[] Thu thập dữ liệu.
+61,Chức năng chính của hệ thống thông tin trong doanh nghiệp là gì?,4,[x] Cả ba chức năng trên.,[] Quản lý quy trình kinh doanh,[] Tự động hóa các tác vụ thủ công,[] Hỗ trợ ra quyết định
+62,Phát biểu nào không chính xác?,4,[] Business collaboration là một cấu hình của hai hoặc nhiều vai trò kinh doanh dẫn đến hành vi tập thể cụ thể trong một bối cảnh cụ thể,[x] Business interface là một quy chuẩn để xây dựng mô hình nghiệp vụ doanh nghiệp,[] Business object là một đơn vị thông tin từ góc độ kinh doanh,[] Representation là một hình thức cảm nhận được của thông tin được thực hiện bởi một đối tượng kinh doanh
+63,"Trong lĩnh vực hệ thống thông tin doanh nghiệp, ECM là viết tắt của từ gì",4,[x] Enterprise Content Management,[] Enterprise Communication Management,[] Enterprise Control Management,[] Enterprise Construction Management
+64,"Trong lĩnh vực hệ thống thông tin doanh nghiệp, EAM là viết tắt của từ gì",4,[] Enterprise Association Management,[x] Enterprise Asset Management,[] Enterprise Account Management,[] Enterprise Advertising Management
+65,Tư duy hệ thống cung cấp cái nhìn sâu sắc về vai trò của hệ thống thông tin trong quá trình nào?,4,[] Quá trình xử lý dữ liệu,[x] Quá trình từ dữ liệu đến tri thức,[] Quá trình tạo ra hệ thống,[] Quá trình hỗ trợ người dùng
+66,"Khi một hệ thống thông tin phục vụ một hệ thống khác, nguyên tắc cơ bản của tư duy hệ thống là gì?",4,[x] Xác định bản chất in/out của hệ thống phục vụ,[] Tạo ra nhiều hệ thống nhỏ,[] Hỗ trợ mọi hoạt động của hệ thống khác,[] Tăng cường tính linh hoạt của hệ thống
+67,"Sắp xếp các bước sau theo thứ tự của vòng đời hệ thống truyền thống (SDLC):
+1. Gói phần mềm
+2. Gia công phần mềm
+3. Tạo mẫu
+4. Phát triển người dùng cuối",4,[] 1 - 3 - 2 - 4,[x] 3 - 1 - 4 - 2,[] 2 - 1 - 4 - 3,[] 4 - 3 - 1 - 2
+68,Hệ thống nào sau đây dành cho quản lý cấp cao nhất ?,5,[x] DSS,[ ] TPS,[ ] MIS,[ ] cả 3 phương án trên
+69,Việc quản lý hoạt động với TPS trở nên phức tạp khi nào?,5,"[x]công ty không đủ 
+lớn để sử dụng hiệu quả hệ thống xử lý giao dịch.",[ ]Khi công ty quá lớn,[ ]Khi có quá nhiều chi nhánh công ty,[ ]Khi không có vấn đề nào xảy ra
+70,TPS cần những thành phần gì để quản lý hiệu quả khối lượng dữ liệu cao?,5,[x] cần cả phần mềm và phần cứng,[ ] phần cứng,[ ]không cần phần mềm phần cứng,[ ]phần mềm
+71,Điều gì làm cho TPS dễ bị vi phạm bảo mật phần mềm?,5,[x]Virus và malware,[ ]Khối lượng dữ liệu cao,[ ]Mất điện,[ ]Sự phức tạp và quá lớn của công ty
+72,"Biến đổi dữ liệu, tính toán là chức năng nào của hệ thống xử lý giao dịch",5,[ ] Chức năng đầu vào,[ ] Chức năng đầu ra,[ ] Chức năng lưu trữ,[x ] Chức năng xử lý
+73,Quá trình thu thập dữ liệu(Data Collection) bao gồm,5,[x ] Data Editing,[x ] Data correction,[ ] Data Storage,[ ] Data Production
+74,Quá trình thao tác dữ liệu(Data manipulation),5,[ ] Data Editing,[ ] Data correction,[x ] Data Storage,[ x] Data Production
+75,Đặc điểm của hệ thống xử lý giao dịch,5,"[ ] hiệu suất, xử lý hàng loạt","[ ] xử lý thời gian thực,
+có kiểm soát","[ ] độ tin cậy cao,
+hồi đáp nhanh",[x] cả 3 đáp án trên
+76,Phát biểu nào sau đây sai về giao dịch( Transaction),5,"[ ] Giao dịch là một hành động 
+hoặc một loạt các hành động","[ ] Giao dịch là một đơn vị 
+logic của quá trình xử lý dữ liệu",[x ] Giao dịch được thực hiện bởi một hoặc nhiều người dùng,"[ ] Giao dịch là thực hiện các
+hoạt động truy cập nội dung của cơ sở dữ liệu."
+77,Đâu là ví dụ về giao dịch(Transaction),5,"[ x] Siena College lập hóa đơn 
+cho một sinh viên cho các lớp 
+học",[ ] Siena College đăng ký sinh viên vào các lớp học,[ ] Văn phòng bác sĩ lên lịch thăm bệnh nhân,"[x] Kiểm tra tiền mặt của Văn 
+phòng bác sĩ từ bệnh nhân"
+78,Đâu là ví dụ về quy trình( Process),5,"[ x] Siena College đăng ký sinh
+viên vào các lớp học",[ ] Siena College lập hóa đơn cho một sinh viên cho các lớp học,[x ] Văn phòng bác sĩ lên lịch thăm bệnh nhân,"[ ] Kiểm tra tiền mặt của Văn 
+phòng bác sĩ từ bệnh nhân"
+79,Lợi ích của việc sử dụng hệ thống xử lý giao dịch,5,[ x] Tăng tốc độ giao dịch,[x ] Tăng hiệu quả chi phí,[x] Cải thiện độ tin cậy,[ ] Quản lý thủ công
+80,Hệ thống đăng ký tiền mặt là hệ thống,5,[ ] PCS,[ x] TPS,[ ] MIS,[ ] ECS
+81,Bảo mật dữ liệu trên tài liệu là chức năng nào của TPS?,5,[x ] Chức năng đầu vào,[ ] Chức năng đầu ra,[ ] Chức năng lưu trữ,[ ] Chức năng xử lý
+82,Loại hệ thống thông tin chính phục vụ việc quản lý hoạt động kinh doanh hàng ngày là:,5,[X]TPS,[]DSS,[]EIS,[]MIS
+83,"Sự kết hợp giữa hệ thống nào có thể giảm lãng phí, nâng cao hiệu quả và tăng lợi nhuận?",5,[]MES và ECS,[]PCS và TPS,[]TPS và MIS,[X]MES và ERP
+84,Quá trình thu thập và nhập dữ liệu cần thiết cho các giao dịch trong TPS gọi là:,5,[]Phân tích dữ liệu,[X]Thu thập dữ liệu,[]Lưu trữ dữ liệu,[]Sản xuất tài liệu
+85,"Công cụ nào thường được sử dụng để tổ chức, quản lý, chia sẻ các dạng thông tin kinh doanh đa dạng?",5,[]Hệ thống quản lý nhiệm vụ và dự án,[X]Công cụ quản lý kiến thức,[]Phần mềm nhóm,[]Hệ thống cộng tác doanh nghiệp
+86,Loại hệ thống xử lý giao dịch xử lý các giao dịch kinh doanh ngay lập tức mà không có sự chậm trễ để tích lũy giao dịch là,5,[]Xử lý theo lô,[X]Xử lý trực tuyến,[]Hệ thống thông tin quản lý,[]Hệ thống hỗ trợ quyết định
+87,"Trong hệ thống xử lý giao dịch (TPS), nguyên tắc ACID (Atomicity, Consistency, Isolation, Durability) áp dụng vào việc gì?",5,[x]Bảo đảm tính nhất quán và độ tin cậy của giao dịch,[]Đảm bảo an toàn thông tin trong hệ thống,[]Tối ưu hóa hiệu suất xử lý giao dịch,[]Tăng cường khả năng mở rộng của hệ thống
+88,Hệ thống điều khiển sản xuất (PCS) thường sử dụng các cảm biến và actuators (bộ điều khiển) để thực hiện điều khiển các quá trình sản xuất. Công nghệ nào sau đây thường được PCS sử dụng để giám sát và điều khiển các thiết bị trong một nhà máy?,5,[x]SCADA (Supervisory Control and Data Acquisition),[]LoRa (Long Range),[]NFC (Near Field Communication),[]RFID (Radio-Frequency Identification)
+89,Hệ thống hỗ trợ ra quyết định (ECS) thường cung cấp thông tin như thế nào cho cấp quản lý cao nhất trong tổ chức?,5,[x]Thông tin tổng quan về kết quả hoạt động kinh doanh và dự đoán,[]Dữ liệu về quá trình sản xuất và lịch trình công việc,[]Thông tin về tình hình bảo mật mạng và an ninh thông tin,[]Dữ liệu chi tiết và báo cáo hàng ngày
+90,Hệ thống nào không thuộc nhóm hệ thống hỗ trợ vận hành (Operation Support System)?,5,[x] MIS,[]PCS,[] TPS,[]ECS
+91,Đâu không phải ví dụ của hệ thống quản lí giao dịch (TPS)?,5,[x] Hệ thống quản lí thông tin khách hàng,[] Hệ thống đặt trước vé máy bay,[] Thiết bị đầu cuối điểm bán hàng (hoặc máy POS),[] Hệ thống cho mượn của thư viện
+92,Đâu không phải là ví dụ về giao dịch?,5,[x] Người A tặng người B món quà trị giá $800,[] Cửa hàng cho khách thuê xe đạp trong 2 tiếng,[] Mua bán sản phẩm tại cửa hàng,[] Cho vay tiền với mục đích lấy lãi
+93,"Điền vào chỗ trống: ""Hệ thống hợp tác trong doanh nghiệp (Enterprise Collaboration Systems - ECS) ...""",5,[x]là một hệ thống thông tin được sử dụng để tạo điều kiện chia sẻ hiệu quả tài liệu và kiến thức giữa các nhóm và cá nhân trong một doanh nghiệp,"[]là cấu trúc tương tác dựa trên máy tính và hệ thống con nhằm giúp các nhà ra quyết định sử dụng công nghệ truyền thông, dữ liệu, tài liệu, kiến ​​thức và mô hình phân tích để xác định và giải quyết vấn đề.","[]là loại hệ thống thông tin hướng máy tính đưa ra các đề xuất và hoạt động giống như một chuyên gia trong một lĩnh vực cụ thể, giúp nâng cao hiệu suất của người dùng mới bắt đầu.",[]là một hệ thống thông tin hỗ trợ các hoạt động ra quyết định của doanh nghiệp hoặc tổ chức.
+94,Yêu cầu cao trong việc tích hợp hiệu quả TPS có thể gây ra điều gì trong hoạt động hàng ngày của công ty?,5,[x]Sự bất ổn và không ổn định,[ ] Sự tiến bộ và phát triển,[ ] Sự ổn định,[ ]Sự đơn giản và hiệu quả
+95,PCS quản lý quy trình nào sau đây?,5,[x] Quy trình tẩm ướp gia vị và chiên cánh gà McDonald's,[] Quy trình tuyển dụng nhân viên chăm sóc khách hàng Viettel,[] Quy trình thanh toán hóa đơn tiền điện qua ví điện tử MOMO,[] Quy trình thủ tục làm lại thẻ sinh viên ở Đại học Bách Khoa Hà Nội
+96,Những đặc điểm của hệ thống xử lý giao dịch,5,[] Xử lý thời gian thực,[] Hồi đáp nhanh hiệu suất,[] Xử lý hàng loạt,[x] Cả 3 đáp án trên
+97,Phát biểu không đúng về Business Transaction,5,[x] Là một đơn vị dữ liệu của quá trình xử lý logic,[] Tạo bởi một hành động hoặc một loạt các hành động,[] Được thực hiện bởi một người dùng duy nhất,[] Kết quả thực hiện truy cập nội dung của khách hàng
+98,Xử lý giao dịch trực tuyến (OLTP) là một khái niệm liên quan đến loại hệ thống nào?,5,[]Hệ thống xử lý giao dịch (TPS),"[]Hệ thống xử lý quyết định (PCS)
+",[]Hệ thống hỗ trợ quyết định (ECS),[]Hệ thống thông tin quản lý (MIS)
+99,Công cụ nào sau đây không phải là một phần thành phần của hệ thống cộng tác doanh nghiệp?,5,[] Phần mềm nhóm,[] Phần mềm quản lý dự án,[x] Hệ thống điều khiển quy trình sản xuất,[] Công cụ quản lý kiến thức
+100,Thành phần chính nào sau đây không phải là một phần của hệ thống xử lý giao dịch?,5,[] Quy trình xử lý,[] Quy trình nhập liệu,[] Dữ liệu,[x] Khách hàng
+101,Hệ thống nào sau đây không phải là một hệ thống xử lý giao dịch điển hình?,5,[] Hệ thống đặt vé máy bay,[x] Hệ thống quản lý nhân sự,[]  Hệ thống thanh toán ngân hàng,[] Hệ thống điểm bán hàng
+102,Sự khác biệt giữa TPS và MIS được thể hiện ở,5,[]cho biêt sự khác biệt giữa 2 loại dựa trên loại người dùng,"[]Các tài liệu do hệ thống xử lý giao dịch và hệ thống thông tin quản
+lý tạo ra khác nhau",[]Các hoạt động do TPS thực hiện khác với MIS,[x] Tất cả các đáp án trên
+103,TPS xử lý dữ liệu nào,5,[x]Dữ liệu thô,[]Dữ liệu từ MIS,[]Dữ liệu đã được tinh chính,[]Dữ liệu từ DSS
+104,Đâu là ví dụ của xử lý theo lô trong TPS,5,[] Bán vé máy bay,[x]Trả lương nhân viên,[]THị trường chứng khoán,[] Đặt chỗ online
+105,Đâu không phải chức năng của hệ thống xử lý giao dịch,5,[]Chức năng đầu vào,[]Chức năng đầu ra,[] Chức năng lưu trữ,[x] Chức năng thống kê
+106,Xử lý giao dịch (transaction processtion) gồm:,5,[x] Tất cả các đáp án trên,[] Các quy trình kinh doanh chính,[] Cung cấp các hoạt động quan trọng của nhiệm vụ,[] Giao dịch có thể tạo thêm giao dịch
+107,PCS thường được sử dụng để theo dõi và kiểm soát quy trình sản xuất. Cụ thể PCS thường liên quan đến việc,5,[x] Kiểm soát chất lượng sản phẩm,[] Quản lý nhân sự,[] Tính toán tài chính doanh nghiệp,[] Tạo và duy trì website
+108,"Trong ngữ cảnh doanh nghiệp, một hệ thống ECS thường được thiết kế để làm gì",5,[x] Giám sát và kiểm soát toàn bộ doanh nghiệp,[] Quản lý quan hệ khách hàng (CRM),[] Tối ưu hóa quy trình sản xuất,[] Tạo ra chiến lược tiếp thị số
+109,Tại sao Hệ thống Xử lý Giao dịch (TPS) quan trọng đối với một doanh nghiệp?,5,[x] Để theo dõi và xử lý hoạt động hàng ngày trong tất cả các phân khúc của tổ chức,[] Để quảng bá thương hiệu,[] Để tối ưu hóa chiến lược tiếp thị,[] Để thiết lập kế hoạch tài chính dài hạn
+110,Lợi thế của hệ thống ERP là gì?,5,[x] Tất cả đáp án còn lại,"[ ] Loại bỏ các hệ thống cũ tốn kém, không linh hoạt",[ ] Tăng quyền truy cập vào dữ liệu để ra quyết định hoạt động,[ ] Cải thiện quy trình làm việc
+111,Thứ tự phát triển của hệ thống ERP,5,"[x] Inventory Control, MRP, MRPII, ERP, ERPII","[ ] Inventory Control, ERP, ERPII, MRP, MRPII","[ ] MRP, MRPII, Inventory Control,  ERP, ERPII","[ ] MRP, MRPII, ERP, ERPII"
+112,CRM là từ viết tắt của:,5,[x] Customer relationship management,[ ] Customer resource management,[ ] Customer relationship manager,[ ] Client relationship management
+113,Sự khác biệt giữa TPS và MIS được thể hiện ở,5,[]cho biêt sự khác biệt giữa 2 loại dựa trên loại người dùng,"[]Các tài liệu do hệ thống xử lý giao dịch và hệ thống thông tin quản
+lý tạo ra khác nhau",[]Các hoạt động do TPS thực hiện khác với MIS,[x] Tất cả các đáp án trên
+114,TPS xử lý dữ liệu nào,5,[x]Dữ liệu thô,[]Dữ liệu từ MIS,[]Dữ liệu đã được tinh chính,[]Dữ liệu từ DSS
+115,Đâu là ví dụ của xử lý theo lô trong TPS,5,[] Bán vé máy bay,[x]Trả lương nhân viên,[]THị trường chứng khoán,[] Đặt chỗ online
+116,Đâu không phải chức năng của hệ thống xử lý giao dịch,5,[]Chức năng đầu vào,[]Chức năng đầu ra,[] Chức năng lưu trữ,[x] Chức năng thống kê
+117,"Trong các khái niệm có liên quan tới hệ thống thông tin quản lý, MIS là viết tắt của cụm từ",6,[x] Management Information System,[ ] Management Innovation System,[ ]  Management Information Statistics,[ ]  Management Information Software
+118,Hệ thống thông tin quản lý (MIS) bao gồm,6,[x] Dữ liệu,[ ]Phần mềm,[x] Phần cứng,[ ]Cả 3 phương án trên
+119,Xử lý giao dịch trực tuyến được viết tắt là?,6,[x] OLTP,[ ] OLAP,[ ]OLTS,[ ] OLTP
+120,Điểm khác biệt giữa MRP và MRP II?:,6,[]MRP II tập trung vào quy trình sản xuất trong khi MRP không,[X] MRP II tích hợp toàn bộ hoạt động công ty trong khi MRP không,[]MRP tập trung vào kiểm soát nguồn cung trong khi MRP II không,[]Chỉ khác nhau về tên gọi
+121,"Khái niệm nào sau đây là quá trình quản lý toàn bộ vòng đời của sản phẩm từ khi bắt đầu thông qua kỹ thuật , thiết kế và sản xuất cũng như dịch vụ và thải bỏ các sản phẩm được sản xuất?",6,[X]Product Lifecycle Management (PLM),[]Material Requirements Planning (MRP),[]Management Information System (MIS),[]Enterprise Resource Planning (ERP)
+122,Phát biểu so sánh Material Requirements Planning (MRP) với Enterprise Resource Planning (ERP) nào sau đây là đúng?,6,[X]Hoạch định nguồn lực doanh nghiệp (ERP) là một phần mở rộng của hệ thống MRP.,"[X]MRP có thể là một ứng dụng độc lập hoặc một phần của ERP, một giải pháp giải quyết mọi nhu cầu kinh doanh",[]Hệ thống MRP là một phần mở rộng của hệ thống hoạch định nguồn lực doanh nghiệp (ERP),[]MRP bắt buộc là một phần của ERP
+123,"MIS - Hệ thống thông tin quản lý là gì, hướng đến mục tiêu gì?",6,"[X]Mục tiêu của MIS là cung cấp thông tin cho việc ra quyết định lập kế hoạch, khởi xướng, tổ chức và kiểm soát hoạt động của các hệ thống con của công ty và tăng giá trị và lợi nhuận của doanh nghiệp.",[]MIS không có mục tiêu cuối cùng liên quan đến tăng giá trị và lợi nhuận của doanh nghiệp.,[]Mục tiêu của MIS là chủ yếu tập trung vào việc nghiên cứu về con người và quy trình trong môi trường doanh nghiệp.,"[]MIS tập trung chủ yếu vào việc thu thập và lưu trữ dữ liệu, không liên quan đến quá trình ra quyết định quản lý."
+124,Đầu vào của Hệ thống thông tin quản lý - MIS không bao gồm?,6,[X]Báo cáo theo lịch trinh - Scheduled reports,[]Kế hoạch chiến lược hoặc chính sách doanh nghiệp,"[]Từ hệ thống xử lý giao dịch (TPS) như: bảng lương, kiểm soát hàng tồn kho, xử lý đơn hàng, các khoản phải trả, các khoản phải thu, sổ cái chung.","[]Nguồn bên ngoài như báo cáo thường niên, báo cáo tài chính của đối thủ cạnh tranh"
+125,Material Requirements Planning (MRP) là gì?,6,[X]Một phương pháp quản lý tồn kho và kế hoạch sản xuất để đảm bảo đủ vật liệu sẵn có khi cần thiết.,[]Một thuật ngữ chủ yếu liên quan đến Marketing và Research Planning trong lĩnh vực quảng cáo.,[]Chỉ liên quan đến quá trình tiếp thị và quảng bá sản phẩm cho thị trường.,"[X]Giúp các doanh nghiệp và nhà sản xuất xác định những gì cần thiết, cần bao nhiêu và khi nào cần nguyên liệu và hoạt động ngược lại với kế hoạch sản xuất thành phẩm.
+"
+126,"Trong hệ thống thông tin quản lý (MIS), khái niệm ""Data Mining"" là gì?",6,[x]Phân tích dữ liệu để khám phá mô hình và thông tin tiềm ẩn,[]Quá trình tự động hóa các công việc lặp đi lặp lại,[]Sử dụng mã hóa để bảo vệ thông tin,[]Tích hợp các hệ thống thông tin khác nhau lại với nhau
+127,"Khái niệm ""ERP"" (Enterprise Resource Planning) trong hệ thống thông tin quản lý đề cập đến việc gì?",6,[x]Quản lý và tích hợp các tài nguyên của doanh nghiệp,[]Quản lý dự án và lịch trình công việc,[]Phân tích dữ liệu để tạo ra báo cáo,[]Tích hợp các thiết bị điện tử vào hệ thống
+128,Thuật ngữ nào sau đây không phải là một trong các thành phần chính của hệ thống thông tin quản lý (MIS)?,6,[x]Algorithms,[]Databases,[]Networks,[]Hardware
+129,"Trong việc triển khai hệ thống thông tin quản lý (MIS), khái niệm ""Legacy System"" đề cập đến điều gì?",6,"[x]Hệ thống cũ, thường có tuổi đời lâu, khó cập nhật hoặc tích hợp",[]Hệ thống phần mềm mới được phát triển,[]Hệ thống chuyên dụng cho việc quản lý tài nguyên nhân sự,[]Hệ thống tương tác xã hội và kinh doanh trực tuyến
+130,"Khái niệm ""SCM"" (Supply Chain Management) trong hệ thống thông tin quản lý đề cập đến việc gì?",6,[x]Quản lý chuỗi cung ứng và tối ưu hóa quy trình,[]Quản lý dữ liệu của các hệ thống thông tin,[]Quản lý hệ thống máy chủ và mạng,[]Quản lý các quy trình sản xuất và bán hàng
+131,Điểm khác biệt chính giữa quản lý thông tin (IM - Information Management) và thông tin quản lý (MI - Management Information) là:,6,"[x] Quản lý thông tin là việc thu thập và quản lý thông tin từ nhiều nguồn khác nhau trong khi đó, thông tin quản lý là các dữ liệu được các nhà quản lý tổ chức và sử dụng để đưa ra quyết định về cách điều hành tổ chức của họ","[x] Quản lý thông tin đặt trọng tâm vào việc nắm bắt, bảo tồn, lưu trữ và cung cấp thông tin cho đúng người vào đúng thời điểm, trong khi đó thông tin quản lý đặt trọng tâm vào việc lưu trữ, truy xuất, phân tích các dữ liệu khách hàng, nhân viên, tài chính và sản xuất","[] Thông tin quản lý là việc thu thập và quản lý thông tin từ nhiều nguồn khác nhau trong khi đó, quản lý thông tin là các dữ liệu được các nhà quản lý tổ chức và sử dụng để đưa ra quyết định về cách điều hành tổ chức của họ","[] Thông tin quản lý đặt trọng tâm vào việc nắm bắt, bảo tồn, lưu trữ và cung cấp thông tin cho đúng người vào đúng thời điểm, trong khi đó quản lý thông tin đặt trọng tâm vào việc lưu trữ, truy xuất, phân tích các dữ liệu khách hàng, nhân viên, tài chính và sản xuất"
+132,Đâu không phải là thành phần chính của hệ thống thông tin quản lí (MIS)?,6,[x] Quy trình sản xuất,[] Phần mềm,[] Con người,[] Dữ liệu
+133,Đâu là một nguồn đầu vào cho hệ thống thông tin quản lí (MIS)?,6,[x] TPS,[] DSS,[] CRM,[] BIS
+134,Lập kế hoạch nguồn lực sản xuất là nhiệm vụ của hệ thống nào sau đây?,6,[x] MRP II,[] MRP,[] IC,[] CRM
+135,PLM là viết tắt của?,6,[x] Product Lifecycle Management,[] Processing Lifecycle Management,[] Project Lifecycle Management,[]Policy and Legal Management
+136,Đâu không phải nghiệp vụ về kiểm soát hàng tồn trong quản lí kho?,6,[x] Quản lí vận chuyển hàng đến kho,[] Tích hợp mã vạch khi nhập kho,[] Chi tiết vị trí sản phẩm trong kho,[] Báo cáo điều chỉnh
+137,Một hệ thống thông tin quản lý (MIS) được tạo thành từ mấy thành phần chính? Cụ thể các thành phần đó là gì?,6,"[]4 thành phần: con người, quy trình kinh doanh, dữ liệu, cơ sở hạ tầng","[]5 thành phần: con người, quy trình sản xuất, dữ liệu, phần cứng, phần mềm","[]4 thành phần: con người, dữ liệu, phần cứng, phần mềm","[x]5 thành phần: con người, quy trình kinh doanh, dữ liệu, phần cứng, phần mềm"
+138,MRP II là viết tắt của?,6,[] Material Resource Planning,[] Material Requirements Planning,[x] Manufactoring Resource Planning,[] Manufactoring Requirements Planning
+139,MIS là viết tắt của?,6,"[x] Management Information 
+System","[] Marketing Information 
+System","[] Multimedia Integration
+ System","[] Manufacturing Information 
+Software"
+140,Phát biểu nào sai về thông tin quản lý?,6,"[] dữ liệu được các nhà quản lý tổ chức và 
+sử dụng để đưa ra quyết định về cách điều hành tổ chức của 
+họ","[] có thể bao gồm dữ liệu về khách hàng, nhà cung 
+cấp, nhân viên, tài chính và sản xuất","[] Hệ thống thông tin quản lý là hệ thống phần mềm và phần cứng được sử dụng để lưu trữ, truy xuất và phân tích dữ liệu này",[x] Thông tin quản lý phải đảm bảo có đầy đủ 4 yếu tố
+141,Đâu là không phải lĩnh vực chính của PLM,6,"[] Kỹ thuật hệ thống (SE) đáp ứng yêu cầu khách hàng và điều 
+phối quy trình thiết kế hệ thống đến các lĩnh vực liên quan. ","[] Quản lý sản phẩm và danh mục đầu tư (PPM) quản lý phân 
+bổ nguồn lực, theo dõi tiến độ, lập kế hoạch cho các dự án 
+phát triển sản phẩm mới đang được xử lý","[x] Sản xuất sản phẩm (CAx) là quá trình tạo ra một sản phẩm 
+mới cho khách hàng của mình.","[] Quản lý dữ liệu sản phẩm (PDM) thu thập và duy trì thông tin 
+về sản phẩm, dịch vụ trong quá trình phát triển và sử dụng"
+142,Những thành phần chính của một hệ thống thông tin quản lý,6,"[]là các lĩnh vực quản lý, dữ liệu, thủ tục xử lý (mô hình) và các quy tắc quản lý.","[x]là con người, quy trình kinh doanh, dữ liệu, phần cứng và phần mềm.","[]là quy trình kinh doanh, tài nguyên, nhân lực, phần cứng và phần mềm.","[]là các hệ thống dữ liệu, các quy tắc quản lý, kế hoạch và quy trình sản xuất."
+143,Tại sao cần MIS? (chọn đáp án sai),6,[]MIS cho phép dễ dàng truy cập và kiểm soát trong việc làm chủ phân phối của nó.,"[]MIS là tài sản của công ty là hệ thống có giá trị cao, có tỷ lệ phản hồi cao và tập trung vào người dùng từ mọi khía cạnh.",[x]MIS có thể giải quyết các vấn đề quan trọng và nó là giải pháp cho tất cả các vấn đề của một tổ chức.,"[]Do các hệ thống khác nhau phục vụ các nhóm người dùng khác nhau với mức độ chi tiết, khả năng xử lý và đầu ra khác nhau."
+144,ISM có phạm vi công việc rộng hơn hay hẹp hơn so với MIS?,6,[x]Rộng hơn,[]Hẹp hơn,[]Bằng nhau,[]Phụ thuộc vào ngữ cảnh sử dụng
+145,PLM quản lý toàn bộ vòng đời của sản phẩm từ khi nào?,6,[] Từ khi sản phẩm được bán đầu tiên đến khi nó hết hàng,[] Từ khi sản phẩm được sản xuất đến khi nó bị hỏng,[x] Từ khi sản phẩm bắt đầu đến khi nó được thải bỏ,[] Từ khi sản phẩm được nghĩ ra đến khi nó được thiết kế
+146,Mục đích chính của CRM trong quan hệ với khách hàng?,6,[] Tăng lợi nhuận ngắn hạn,[] Quản lý tương tác với khách hàng,[] Chỉ tập trung vào tiếp thị,[] Giảm chi phí sản xuất
+147,Đâu không phải một cách phân nhóm theo công dụng của MIS?,6,[x] Giúp đánh giá vấn đề,[] Giúp ra quyết định,"[] Giúp phối hợp giữa các
+ Bộ phận",[] Giúp so sánh hiệu quả kinh doanh
+148,Nhược điểm của ERP?,6,[] Giảm quyền truy cập vào dữ liệu,"[] Không thể loại bỏ các hệ thống cũ tốn kém, không linh hoạt",[] Cơ sở hạ tầng công nghệ khó nâng cấp,[x] Khó thực hiện thay đổi
+149,"Trong các lĩnh vực chính của quản lý vòng đời sản phẩm (PLM), kỹ thuật hệ thống (SE) được mô tả như thế nào?",6,[] Là quá trình tạo ra một sản phẩm mới cho khách hàng của mình,[x] Đáp ứng yêu cầu khác hàng và điều phối quy trình thiết kế hệ thống đến các lĩnh vực liên quan,"[] Quản lý phân bố nguồn lựuc, theo dõi tiến độ, lập kế hoạch cho các dự án phát triển sản phẩm mới đang được xử lý","[] Thu thập và duy trì thông tin về sản phẩm, dịch vụ trong quá trình phát triển và sử dụng"
+150,Đâu không là thành phần của hệ thống quản lý thông tin (MIS),6,[] Con người,[] Quy trình kinh doanh,[] Dữ liệu,[x] Quy trình nghiệp vụ
+151,Đâu không phải là công dụng của MIS?,6,[x] Giúp tăng cường bảo mật thông tin,[] Giúp phối hợp giữa các bộ phận,[] Giúp so sánh hiệu quả kinh doanh,[] Giúp tìm ra giải pháp của vấn đề
+152,Inventory control là gì,6,[x]quá trình kiểm soát lượng hàng tồn kho,[]Quá trình sản xuất,[]quá trình quản lý nhân sự,[]quá trính bán hàng
+153,MRP là viết tắt của,6,[x]Material Requirement Planning,[]Meterial Resources Planning,[]Manufacturing Resources Planning,[]Meterial Requirement Planning
+154,Đâu không phải là 1 Information Systems,6,[x]CPS,[]TPS,[]MIS,[]DSS
+155,Mục tiêu chính của MIS là gì,6,[x]Cung cấp thông tin để hỗ trợ quyết định,[]Giảm chi phí nhân sự,[]Tăng cường mối quan hệ khách hàng,[]Tối ưu hóa lợi nhuận ngắn hạn
+156,MIS nằm ở mức độ nào,6,[x]Middle level management,[]Top level management,[]Low level management,[]High level management
+157,"Khi phân loại phần mềm Quản lý nhân sự theo hình thức mua bán, đâu là hình thức không chính xác?",6,[x] Phần mềm trong nước,[ ] Phần mềm viết theo yêu cầu,[ ] Phần mềm đóng gói,[ ] Phần mềm nước ngoài
+158,Module quan trọng nhất của Production Planning và được coi là xương sống của quy trình sản xuất ?,6,[x] Material Requirement Planning,[ ] Warehourse management,[ ] Human Resource Planning,[ ] Production Control
+159,Đâu không phải là thành phần của MIS,6,[X] Sản phẩm,[ ] Con người,[ ] Data,[ ] Phần mềm
+160,Đâu không phải một nhóm được chia theo công dụng của MIS,6,[X] Giúp giải quyết vấn đề,[ ] Giúp ra quyết định:,[ ] Giúp tìm ra vấn đề:,[ ] Giúp so sánh hiệu quả kinh doanh:
+161,Đâu không phải một loại hệ thống quản lý thông tin khi được chia theo nghiệp vụ,6,[X] Hệ thống quản lý bán hàng,[ ] Hệ thống quản lý bán hàng,[ ] Hệ thống quản lý bán hàng,[ ]  Hệ thống quản lý nguồn nhân lực
+162,Tam giác trí thức DIKW Hierarchy là gì?,7,"[X]DIKW Hierarchy là một khái niệm biểu thị mối quan hệ giữa Dữ liệu (Data), Thông tin (Information), Kiến thức (Knowledge), và Weisheit (Weisheit).",[]DIKW Hierarchy là một mô hình thiết kế web phổ biến.,"[]DIKW Hierarchy là viết tắt của ""Data, Insight, Knowledge, Wisdom,"" mô tả một mô hình lên xuống từ sự hiểu biết cơ bản đến sự hiểu biết cao cấp.","[]DIKW Hierarchy là viết tắt của ""Digital Information and Knowledge Workers,"" mô tả một nhóm người làm việc chủ yếu với dữ liệu và thông tin kỹ thuật số."
+163,Thành phần của hệ thống Decision Support Systems có thể bao gồm:,7,[X]Hệ thống quản lý dữ liệu gồm Cơ sở dữ liệu và Hệ quản trị CSDL (DBMS),[X]Hệ thống quản lý cơ sở kiến thức KMS - Knowledge Base Management Subsystems,[]Hệ thống quản lý vận chuyển (TMS - Transportation Management System),[]Hệ thống quản lý nhân sự (HRMS - Human Resource Management System)
+164,Decision Support Systems - DSS không bao gồm:,7,[X]DSS theo hướng kinh doanh,[]DSS hướng giao tiếp,[]DSS hướng tri thức,[]DSS hướng tài liệu
+165,"Theo phân loại quyết định, đâu là quyết định phi cấu trúc?",7,[x] Quyết định các mục tiêu của công ty,[] Phân bổ nguồn lực cho các nhà quản lí,[] Xây dựng kế hoạch marketing,[] Xác định ưu đãi đặc biệt cho khách hàng
+166,Đâu là nhược điểm của hệ thống hỗ trợ điều hành (ESS)?,7,[x] Chi phí thực hiện cao,[] Lợi ích mang lại thấp,[] Không thích hợp cho các công ty lớn,[] Không quan tâm đến quy trình nội bộ
+167,Đâu không phải chức năng phổ biến của Business intelligence?,7,[x] Quản lí quy trình sản xuất,[] Báo cáo,[] Khai thác văn bản,[] Xử lí sự kiện phức tạp
+168,Đâu không phải công cụ của Business Intelligence?,7,[x] Database backup,[] OSAP,[] Visualization,[] Data mining
+169,"Mô hình DSS nào giúp các công ty lưu, quản lí, phân tích dữ liệu?",7,[x] DSS hướng dữ liệu,[] DSS dựa trên mô hình,[] DSS hướng tài liệu,[] DSS hướng tri thức
+170,Hệ thống DSS được sử dụng hỗ trợ trong việc ra những quyết định ở mức độ nào?,7,[] Mức độ chiến lược,[] Mức độ chiến thuật,[] Mức độ chiến lược và chiến thuật,"[x] Mức độ chiến lược, chiến thuật và vận hành"
+171,Quyết định nào được mô tả là quyết định bán cấu trúc,7,[x] Xây dựng kế hoạch marketing,"[] xác định ưu đãi đặc biệt
+ cho khách hàng","[] Quyết định các mục tiêu
+ của công ty",[] Phê duyệt ngân sách vốn
+172,"Đâu là thứ tự đúng từ dưới lên trong các mức độ của tam giác tri thức
+ DIKW Hierarchy",7,"[x] Data → Information 
+→ Knowledge → Wisdom","[] Data → Knowledge 
+→ Information → Wisdom","[] Data → Knowledge 
+→ Wisdom → Information ","[] Data → Information
+→ Wisdom → Knowledge "
+173,Điều nào sau đây là không đúng về DSS,7,"[]  Hỗ trợ giải quyết vấn đề phức
+ tạp","[] Phản ứng nhanh với các 
+tình huống bất ngờ dẫn 
+đến điều kiện thay đổi",[x] Chủ yếu giải quyết các vấn đề có cấu trúc,[] Hỗ trợ các vấn đề bán cấu trúc và phi cấu trúc
+174,Đâu không phải là tính chất của hệ thống ESS/EIS,7,[] Dễ sử dụng,[x] Chi phí thực hiện thấp,"[] Phù hợp với các giám
+ đốc điều hành cá nhân",[]  Giúp đỡ với các tình huống có mức độ không chắc chắn cao
+175,Hệ thống BI chủ yếu tập trung vào:,7,"[] Xây dựng cơ sở dữ liệu cụ thể
+ để giải quyết vấn đề.","[] Cải thiện mối quan hệ 
+khách hàng và đối tác",[] Tăng doanh thu,"[x] Phân tích và báo cáo trên 
+dữ liệu được lưu trữ trong 
+kho dữ liệu"
+176,Hệ thống hỗ trợ ra quyết định viết tắt là gì?,7,[x]DSS,[]EIS,[]ESS,[]BIS
+177,Điều nào sau đây là đúng về Hệ thống hỗ trợ ra quyết định DSS?,7,[]Đưa ra quyết định thay cho người ra quyết định,"[x]Hỗ trợ cho hoạt động ra 
+quyết định","[]Thực hiện các quyết định 
+","[]Đưa ra các quyết định chính 
+xác tuyệt đối"
+178,Quyết định nào được mô tả là quyết định có cấu trúc,7," [x]Xác định ưu đãi đặc biệt
+ cho khách hàng",[]Xây dựng kế hoạch marketing,"[]Quyết định các mục tiêu
+ của công ty",[] Phê duyệt ngân sách vốn
+179,Quyết định nào được mô tả là quyết định có cấu trúc,7,[] Phân bổ nguồn lực cho các nhà quản lý,"[] Xác định ưu đãi đặc biệt 
+cho khách hàng",[] Xây dựng kế hoạch marketing,[x]Phê duyệt ngân sách vốn
+180,"Mô hình DSS nào giúp các công ty lưu, quản lý và phân tích tổ hợp dữ liệu
+cả bên trong và bên ngoài công ty",7,[x]DSS hướng dữ liệu,[] DSS hướng tài liệu,[] DSS hướng tri thức,[] DSS hướng giao tiếp
+181,Mô hình DSS nào giúp các công ty quản lý dữ liệu yêu cầu nhiều người cộng tác trong một nhiệm vụ,7,[] DSS hướng dữ liệu,[] DSS hướng tài liệu,[] DSS hướng tri thức,[x]DSS hướng giao tiếp
+182,"Thông tin được nhập vào một mô hình ra quyết định, sau đó sẽ được sử
+ dụng để phân tích các tình huống là mô tả mô hình DSS nào",7,[] DSS hướng dữ liệu,[] DSS hướng tài liệu,[x]DSS dựa trên mô hình,[] DSS hướng tri thức
+183,Hệ thống hỗ trợ điều hành là,7,[x]ESS,[]DSS,[]BSS,[]BIS
+184,BI là gì,7,[x]Kinh doanh thông minh,[]Bán hàng thông minh,[]Điều hành thông minh,[]Ra quyết định thông minh
+185,"Trong BIS, khái niệm ""OLAP"" liên quan đến việc gì?",7,[]Phân tích sâu rộng vào chi tiết dữ liệu,[]Tìm kiếm thông tin từ nguồn bên ngoài,[]Phân tích độ nhạy của dữ liệu đối với quyết định,[x]Phân tích dữ liệu theo chiều đa chiều
+186,Nghiệp vụ thông minh (BI) có thể được định nghĩa là các hệ thống kết hợp:,7,[] Thu thập dữ liệu,"[] Lưu trữ, phân tích dữ liệu","[] Quản lý, khai thác kiến thức",[x] Tất cả phương án trên
+187,Đâu không phải là một mô hình cho DSS( hệ thống hỗ trợ quyết định),7,[] DSS hướng giao tiếp,[] DSS hướng tri thức,[x] DSS hướng nghiệp vụ,[] DSS hướng tài liệu
+188,Đâu là nhược điểm của ESS?,7,[x] Tất cả các đáp án trên,[] Lợi ích khó định lượng,"[] Chức năng hạn chế, theo thiết kế",[] Chi phí thực hiện cao
+189,Đâu không phải là lợi ích chính của DSS?,7,[x] Chi phí cao,[] Quyết định khách quan,[] Những hiểu biết học hỏi mới,[] Cải thiện kiểm soát quản lý và hiệu suất
+190,Các chức năng phổ biến của Business Intelligence là,7,[x] Tất cả các phương án trên,[] Phân tích dự đoán,[] Xử lý sự kiện phức tạp,"[] Khai thác dữ liệu, quy trình"
+191,Phân loại hệ thống thông tin theo cách cổ điển chia hệ thống thành những phần nào?,7,"[x] Operational Systems, Management Systems","[ ] Operational Systems, Executive Systems","[ ] Excecutive Systems, Manangement Systems","[ ] Operational Systems, Management Systems, Excecutive Systems"
+192,Đâu là phát biểu đúng về khái niệm giao dịch( Transaction)?,7,"[x] Thường liên quan đến hai thực thể ( C2B, C2C, B2B...)","[x] Những thứ được trao đổi thường là tiền hay sản phẩm, trả về là tiền hay dịch vụ","[ ] Là các bước liên quan đến chuyển đổi nguyên liệu thành sản phẩm, cung cấp dịch vụ",[ ] Tất cả phương án trên đều đúng.
+193,Các đặc điểm nào sau đây không phải của hệ thống xử lý theo lô (Batch proccesing),7,[x] Các giao dịch được xử lý ngay lập tức,[x] Các giao dịch được xử lý online,"[ ] Được ứng dụng nhiều trong giai đoạn các thiết bị, hạ tầng hạn chế",[ ] Các giao dịch kinh doanh được tích lũy trong một khoảng thời gian và được xử lý theo một đơn vị hay một lô duy nhất
+194,Sắp xếp các mức độ ra quyết định từ thấp đến cao,7,"[x] Nhân viên cá nhân, Đội ngũ quản lý vận hành và dự án, Đội ngũ quản lý cấp trung và dự án, Quản lý cấp cao","[ ] Đội ngũ quản lý vận hành và dự án, Nhân viên cá nhân, Đội ngũ quản lý cấp trung và dự án, Quản lý cấp cao","[ ] Nhân viên cá nhân, Đội ngũ quản lý vận hành và dự án, Quản lý cấp cao, Đội ngũ quản lý cấp trung và dự án,","[ ] Đội ngũ quản lý vận hành và dự án, Đội ngũ quản lý cấp trung và dự án, Nhân viên cá nhân, Quản lý cấp cao"
+195,Hệ thống hỗ trợ quyết định (DSS) được thiết kế để làm gì trong môi trường kinh doanh?,7,[x] Hỗ trợ người dùng trong việc ra quyết định thông minh,[ ] Tạo ra quyết định hoàn toàn tự động,[ ] Thay thế vai trò của nhà quản lý,[ ] Đưa ra dự đoán không chính xác
+196,Các tính năng chính của DSS bao gồm điều gì?,7,"[x] Tính linh hoạt, phân tích dữ liệu và tương tác người dùng",[ ] Không cung cấp công cụ phân tích và đánh giá,[ ] Chỉ phục vụ một lĩnh vực cụ thể,[ ]Hỗ trợ chỉ quản lý cấp cao
+197,DSS thường được sử dụng trong việc hỗ trợ quyết định ở đâu trong tổ chức?,7,[x] Cả ở cấp cao và cấp trung ương,[ ] Chỉ ở cấp dưới trong tổ chức,[ ] Chỉ ở cấp trung ương,[ ] Chỉ ở cấp cao trong tổ chức
+198,Điều gì làm nên sức mạnh của hệ thống hỗ trợ quyết định (DSS)?,7,[x] Cung cấp thông tin chính xác và công cụ phân tích để hỗ trợ quyết định,[ ] Sự đơn giản và hạn chế,[ ] Tính tĩnh lặng không thay đổi,[ ] Không hỗ trợ người dùng trong quyết định chiến lược
+199,Business Intelligence (BI) tập trung vào việc gì?,7,[x] Sử dụng dữ liệu để hỗ trợ quyết định kinh doanh,[ ] Kế hoạch marketing,[ ] Quản lý tài chính,[ ] Lập trình ứng dụng di động
+200,Mục tiêu chính của Business Intelligence là gì?,7,[x] Hỗ trợ quyết định thông minh dựa trên dữ liệu,[ ] Quản lý tài chính cá nhân,[ ] Tạo ra dữ liệu mới,[ ] Phân tích kết cấu mô phỏng
+201,Business Intelligence có thể giúp tổ chức như thế nào?,7,[x] Hỗ trợ tổ chức hiểu rõ về hoạt động của mình và ra quyết định thông minh dựa trên dữ liệu,[ ] Tạo ra các ứng dụng di động cho khách hàng,[ ] Chỉ hiển thị thông tin từ một nguồn duy nhất,[ ] Tạo ra lợi nhuận từng giây
+202,Đâu là đặc điểm của hệ thống ERP?,8,[] Phân tích dữ liệu,[] Tích hợp quy trình nghiệp vụ,[] Tự đông hóa,[x] Cả 3 đáp án trên
+203,Kể tên (những) nghề nghiệp sử dụng ERP?,8,[x] Kiến trúc sư dữ liệu,"[x] Nhà phân tích 
+kinh doanh","[x] Quản trị viên cơ
+ sở dữ liệu","[] Nhà phân tích thiết 
+kế hệ thống"
+204,Hệ thống ERP sử dụng cơ sở dữ liệu chung nhằm mục đích gì?,8,[x] Tạo ra cái nhìn nhất quán và đa chức năng về công ty.,[] Tăng sự đa dạng của dữ liệu.,[] Giảm hiệu suất người dùng.,[] Hạn chế sự tích hợp giữa các phòng ban.
+205,Tính năng quan trọng của hệ thống ERP liên quan đến nhân sự là gì?,8,[x] Tự động hóa các quy trình nghiệp vụ.,[] Giảm tương tác giữa người dùng và hệ thống.,[] Tạo ra cái nhìn nhất quán về công ty.,[] Hỗ trợ quản lý chuỗi cung ứng.
+206,Đặc điểm nào của hệ thống ERP giúp người dùng có thể nhanh chóng tìm và hiểu thông tin từ mọi góc của doanh nghiệp?,8,[x] UX/UI nhất quán,[] Cơ sở dữ liệu chung,[] Tích hợp quy trình nghiệp vụ,[] Tự động hóa
+207,ERP là viết tắt của từ gì?,8,[ ] Enterprise Resource Platform,[x] Enterprise Resource Planning,[ ] Efficient Resource Processing,[ ] Essential Resource Program
+208,Lợi ích của ERP,8,[ ] Cho phép ERP thay thế nhiều hệ thống khác nhau hiện có trong DN,[ ] Tăng luồng thông tin chạy trong tổ chức/doanh nhiệp,"[ ] Tăng khả năng kết hợp kiểm soát quản lý tốt hơn, ra quyết định nhanh
+hơn và giảm chi phí",[X] Tất cả các phương án trên
+209,Các công nghệ nào có thể tích hợp vào ERP để gia tăng trải nghiệm và giảm tải công việc,8,[ ] AI,[ ] Blockchain,[ ] IOT,[X] Tất cả các phương án trên
+210,Đâu không phải ứng dụng của IOT trong ERP,8,[ ] Thu thập dữ liệu,[ ] Tăng cường quản lý chuỗi cung ứng,[X] Phán đoán xu hướng,[ ] Cải thiện khả năng hiển thị
+211,Đâu không phải ứng dụng của Blockchain trong ERP,8,[ ] Bảo mật nâng cao,[X] Xác thực người dùng,[ ] Truy xuất nguồn gốc chuỗi cung ứng,[ ] Hợp đồng thông minh
+212,Đâu không phải ứng dụng của Blockchain trong ERP,8,[ ] Phân tích dữ liệu nâng cao,[ ] Khả năng dự đoán,[ ] Cải thiện trải nghiệm người dùng,[X] Thay con người đưa ra quyết định phức tạp
+213,Những phát hiện chính về thị trường ERP,8,[X] Bão hòa và tập trung,[ ] Phân tán và sơ khai,[ ] Sơ khai và tập trung,[ ] Bão hoà và phân tán
+214,Đâu không phải là 1 trong 5 nhà cung cấp lớn giải pháp ERP,8,[ ] Oracle,[ ] JDEdwards,[ ] PeopleSoft,[X] MicroSoft
+215,Nhược điểm của SAP,8,[X]Công ty yêu cầu phải ký hợp đồng để sử dụng phần mềm SAP và công ty đó giữ các công ty đó với nhà cung cấp cho đến khi hết hạn hợp đồng.,[X] Nó không linh hoạt vì đôi khi gói của nhà cung cấp không phù hợp với mô hình kinh doanh của công ty.,[X] Để thực hiện và sử dụng SAP có thể rất tốn kém. Điều này không an toàn vì có nguy cơ thất bại dự án.,"[ ] Tốn thời gian đào tạo, sử dụng hệ thống"
+216,Quản lý quy trình kinh doanh (BPM) là gì?,9,"[x]Mô hình hóa, tối ưu hóa, đo lường và điều phối tất cả các quy trình trong một tổ chức",[ ]Mô hình hóa và tối ưu hóa quy trình trong một tổ chức,[ ]Điều phối tất cả các quy trình kinh doanh,[ ]Cung cấp cho doanh nghiệp khả năng kiểm soát các quy trình của họ
+217,Mục đích chính của việc tiêu chuẩn hóa quy trình là gì?,9,[x]Giúp thực thi các yêu cầu bảo mật hơn,[ ]Tăng cường sự phức tạp của quy trình,[ ]Gây khó khăn cho nhóm CNTT,[ ]Tăng cường sự lỗi lạc của quy trình
+218,Đâu không phải là một thành phần trong BPM lifecycle,9,[] Process discovery,[] Process analysis,[] Process redesign,[x] Process maintain
+219,Phát biểu không đúng về quy trình hoạt động,9,[] Có nhiều quy trình tổ chức đóng góp vào quy trình tổ chức,[x] Quy trình hoạt động được chỉ định bởi các mô hình thiết kế,[] Quy trình hoạt động là cơ sở để phát triển các quy trình được thực hiện,[] Các quy trình được thực hiện chứa thông tin về việc thực hiện các hoạt động quy trình
+220,Quy trình nghiệp vụ là?,9,[] Là các gọi khác của quá trình viết code,[x] Là một hoạt động hoặc tập hợp các hoạt động nhằm hoàn thành một mục tiêu cụ thể của tổ chức,[] Là quy trình tuyền dụng của doanh nghiệp,[] Là quy trình kiểm thử
+221,Mục tiêu chính của quy trình cải thiện thông qua BPM là gì?,9,[x] Cải thiện chất lượng quy trình,[] Tăng cường sự phức tạp của quy trình,[] Giảm sự linh hoạt trong hoạt động kinh doanh,[] Tăng cường sự không chắc chắn
+222,Đâu không phải là một bước của BPM,9,[x] Kiểm thử,[] Phân tích,"[] Thực hiện , cải tiến",[] Tối ưu hóa quy trình
+223,Các thành phần của quản lý quy trình kinh doanh (BPM) là?,9,[] Phân tích quy trình,[] Con người,[] Công nghệ,[x] Tất cả các đáp án trên
+224,"Một chuỗi các sự kiện, hoạt động và quyết định, liên quan đến một số tác nhân và đối tượng, được kích hoạt bởi một nhu cầu, và dẫn đến một kết quả có giá trị cho khách hàng là khái niệm của thuật ngữ nào?",9,[x] Quy trình nghiệp vụ (BP),[] Quản lý quy trình kinh doanh (BPM),[] Hệ thống quản lý kho (WMS),[] Hệ thống quản lý hàng tồn kho
+225,Quy trình nào trong vòng đời BPM nhấn mạnh việc xác định và mô tả chi tiết các hoạt động và quy trình kinh doanh?,9,[x] Xác định,[ ] Thiết kế,[ ] Kiểm tra,[ ] Thực hiện
+226,Giai đoạn nào trong vòng đời BPM tập trung vào việc theo dõi và đánh giá hiệu suất của các quy trình?,9,[x] Kiểm tra,[ ] Thiết kế,[ ] Xác định,[ ] Tối ưu hóa
+227,"Mục tiêu chính của giai đoạn ""Optimization"" trong vòng đời BPM là gì?",9,[x] Cải thiện và tối ưu hóa quy trình,[ ] Xác định các quy trình,[ ] Thiết kế quy trình mới,[ ] Giám sát và đánh giá hiệu suất
+228,Giai đoạn nào trong vòng đời BPM nhằm triển khai các quy trình đã được thiết kế?,9,[x] Thực hiện,[ ] Kiểm tra,[ ] Xác định,[ ] Tối ưu hóa
+229,Đâu không phải nền tảng e-commerce,10,[x]Shopee,[]TIKI,[]Lazada,[]phimmoi.net
+230,Thương mại điện tử là,10," [x]nơi diễn ra các giao dịch kinh
+ doanh thông qua mạng viễn thông","[]Nơi diễn ra các giao dịch 
+kinh doanh trực tiếp",[]Nơi mua bán,[]Nơi đấu giá
+231,B2C là giao dịch giữa?,10,[]Doanh nghiệp với doanh nghiệp,[]Người tiêu dùng với người tiêu dùng,[x]Doanh nghiệp với người  tiêu dùng,[]Nhà nước với người tiêu dùng
+232,Đâu không phải khía cạnh của thương mại điện tử,10,[]Sản phẩm được bán,[]Quá trình,[]Đại lý phân phối,[x]Trang chủ bán hàng
+233,Đâu không phải  1 loại khung thương mại điện tử,10,[]SaaS,[]Open Source,[]Headless Commerce,[x]Shopify
+234,Khung thương mại điện tử nào không thể tùy chỉnh,10,[x]SaaS,[]Open Source,[]Headless Commerce,[]Không có đáp án đúng
+235,"Để tương tác với dữ liệu của cửa hàng trên Shopify, API nào được sử dụng phổ biến nhất?",10,[] REST API,[x] GRAPHQL API,[] SOAP API,[] JSON API
+236,"Để thêm tính năng mới vào một cửa hàng Shopify, nơi tốt nhất để triển khai là:",10,[] Admin API,[x] Storefront API,[] Checkout API,[] Inventory API
+237,"Để tạo một chủ đề (theme) tùy chỉnh cho Shopify, ngôn ngữ và cú pháp sử dụng chủ yếu là:",10,[x] Liquid,[] Sass,[] HTML,[] Typescript
+238,"Trong Shopify, để điều chỉnh giao diện người dùng của cửa hàng, người dùng có thể tùy chỉnh trực tiếp thông qua:",10,[] Store settings,[x] Theme Editor,[] Code Editor,[] App Dashboard
+239,"Để tương tác với các sự kiện trong cửa hàng Shopify, người phát triển có thể sử dụng:",10,[] Events,[] Callbacks,[] Triggers,[x] Webhooks
+240,Các hệ thống sắp xếp theo thời gian phản hồi theo thứ tự từ nhanh đến lâu,10,[x] PLC - DCS - SCADA - MES - ERP,[ ] PLC - DCS - MES - SCADA - ERP,[ ] ERP - MES - SCADA - DCS - PLC,[ ] ERP - DCS - MES - PLC - SCADA
+241,Đâu không phải là đặc điểm của hệ thống hỗ trợ ra quyết định (DSS)?,10,[x] DSS không thể giải quyết hiệu quả các vấn đề khó vì sự hạn chế của kiến thức,[ ] DSS thường sử dụng các mô hình,[ ] DSS tương đối dễ sử dụng,"[ ] DSS dẫn đến học tập, dẫn đến nhu cầu mới và sự tinh chỉnh của hệ thống"
+242,Đâu là sự khác nhau giữa DSS và MIS,10,[x] Hệ thống DSS giải quyết các vấn đề bán cấu trúc và phi cấu trúc còn hệ thống MIS giải quyết vấn đề có cấu trúc,"[ ] Hệ thống MIS nhấn mạnh vào các mô hình giả định truy vấn đặc biệt đồ thị hiển thị trong khi DSS cung cấp các báo cáo thường cố định, theo lịch trình",[ ] Giống nhau chỉ các chức năng,[ ] Các phương án đều sai
+243,Thương mại điện tử được viết tắt là gì,10,[X] EC,[ ] EV,[ ] ET,[ ] EN
+244,Đâu không phải là ưu điểm của khung thương mại điện tử  SaaS,10,[X] SaaS giúp bạn có thể tùy ý tùy chỉnh,"[ ] Tổng chi phí sở hữu thường thấp hơn nhiều so với các khung thương mại
+nguồn mở hoặc không có đầu người.",[ ] SaaS có thể giúp bạn tiếp cận thị trường một cách nhanh chóng.,"[ ] Nhà cung cấp có thể đưa ra các bản nâng cấp tính năng theo thời gian thực khi
+họ tiếp tục cải tiến phần mềm theo thời gian."
+245,"Đâu không phải là một mối quan hệ giữa thương mại điện tử và
+kinh doanh điện tử",10,[X] Kinh doanh điện tử là một phần trong thương mại điện tử,[ ] Thương mại điện tử ngang bằng với kinh doanh điện tử,[ ] Thương mại điện tử là một phần trong kinh doanh điện tử,[ ] Thương mại điện tử và kinh doanh điện tử có những phần giống nhau
+246,Đâu là ý sai về EC,10,[X] Thương mại điện tử mô tả việc mua và bán các sản phẩm trực tiếp,"[ ] Thương mại điện tử (EC) là nơi diễn ra các giao dịch kinh doanh thông
+qua mạng viễn thông, đặc biệt là Internet.","[ ] Thương mại điện tử mô tả việc mua và bán các sản phẩm, dịch vụ và
+thông tin thông qua mạng máy tính bao gồm cả Internet.","[ ] Cơ sở hạ tầng cho EC là một môi trường máy tính nối mạng trong kinh
+doanh, nhà dânvà chính phủ."
+247,Đâu không phải là một loại EC,10,[X] Người tiêu dùng tới doanh nghiệp (C2B) : người tiêu dùng bán cho doanh nghiệp,"[ ] Doanh nghiệp với người tiêu dùng (B 2 C): Mô hình EC trong đó các
+doanh nghiệp bán cho người mua sắm cá nhân","[ ]  Doanh nghiệp với doanh nghiệp (B
+2 B): Mô hình EC trong đó tất cả
+những người tham gia là doanh nghiệp hoặc tổ chức khác","[ ] Người tiêu dùng với người tiêu dùng (C 2 C): người tiêu dùng bán trực
+tiếp cho người tiêu dùng khác"
+248,Lợi ích của thương mại điện tử (EC) với doanh nghiệp kinh doanh,10,[X] Mở rộng thị trường ra thị trường trong nước và quốc tế,"[X] Giảm chi phí tạo, xử lý, phân phối, lưu trữ và truy xuất thông tin trên giấy",[ ] Giảm kích thước kho lưu trữ,"[X] Giảm thời gian giữa chi phí vốn và việc nhận sản phẩm và dịch vụ
+"
+249,Đâu không phải là Phân loại EC theo bản chất của giao dịch,10,[ ] B2B,[ ] B2C,[ ] C2C,[X] C2B
+250,Các khía cạnh của thương mại điện tử,10,[X] Sản phẩm,[ ] Con người,[X] Quá trình,[X] đại lý phân phối
+251,Nhược điểm của Khung thương mại điện tử SaaS,10,[ ] Chi phí duy trì cao,[X] Không thể tùy chỉnh,[ ] Bảo mật kém,[ ] Cạnh tranh cao
+252,Nhược điểm của  Khung thương mại điện tử nguồn mở.,10,[X] Phụ thuộc vào nhà phát triển,"[X] Chịu trách nhiệm cài đặt các bản cập nhật phần mềm và bản vá
+bảo mật.",[ ] Không thể tuỳ chỉnh,[ ] Chi phí bản quyền lớn
+253,Ưu điểm của Headless Commerce,10,[X] Có thể linh hoạt sử dụng giao diện,[X] Có thể sử dụng back-end hỗ trợ nhiều trang web.,[X] Backend và FrontEnd có thể phát triển mà không gây rủi ro cho nhau,[ ] Thời gian phát triển ngắn
+254,Các yếu tố cấu thành nên E-business,10,[ ] Thương mại điện tử bên mua,[ ] Thương mại điện tử phía bán,[ ] Sử dụng nội bộ truyền thông điện tử để hỗ trợ các quy trình kinh doanh.,[X] Tất cả phương án trên đều đúng.
+255,Thứ tự sắp xếp của 4 giai đoạn chuyển đổi số,10,[X] Brochureware -> e-Commerce -> e-Business -> E-enterprise,[ ] e-Commerce -> e-Business -> E-enterprise -> Brochureware,[ ] Brochureware -> e-Commerce  -> E-enterprise -> e-Business,[ ] e-Commerce -> e-Business -> Brochureware ->  E-enterprise
+256,Đâu không phải là Thành phần trong Doanh nghiệp điện tử,10,[ ] Hồ sơ và Cá nhân hóa,[ ] Quản lý tìm kiếm,[ ] Quản lý Dòng công việc,[X] Quản lý dòng tiền
+257,Quy trình thanh toán điện tử trong Doanh nghiệp điện tử bao gồm,10,[X] Quy trình thanh toán điện tử,[X] Chuyển tiền điện tử,[ ]Quy trình thanh toán trực tiếp,[ ] Quy trình thanh toán khi nhận hàng
+258,Cách thức bảo mật thanh toán điện tử trong Doanh nghiệp điện tử,10,[X] Mã hóa dữ liệu giữa khách hàng và người bán,[X] Mã hóa dữ liệu giữa khách hàng và tổ chức tài chính,[X] Lấy thông tin nhạy cảm ngoài đường dây,[ ] Lưu dữ liệu mà không mã hoá
+259,Các yếu tố thành công thương mại điện tử,10,[X] Lựa chọn và giá trị,[X] Quảng cáo và ưu đãi,[ ] Tốn ít thời gian phát triển,[ ] Dễ chuyển đổi
+260,Các thành phần chính của CRM bao gồm?,11,"[] Dữ liệu, Quy trình, Công nghệ, Con người","[x] Thông tin, Quy trình, Công nghệ, Con người","[] Thông tin, Quy trình, Công nghệ, Khách hàng","[] Dữ liệu, Quy trình, Công nghệ, Khách hàng"
+261,Phần mềm nào sau đây không tập trung quản lý dữ liệu khách hàng?,11,[] CDP,[] DMP,[x] ECS,[] CRM
+262,Data Management Platforms (DMP) tập trung giao tiếp với đối tượng nào?,11,[x] Khách hàng không xác định,[] Khách hàng đã biết,[] Quản lý cấp cao,[] Quản lý cấp trung
+263,Đâu không phải một thành phần chính của CRM,11,[x] Chiến lược,[] Quy trình,[] Công nghệ,[] Con người
+264,Lợi ích của CRM,11,[] Giảm thời gian xử lý lỗi trong giai đoạn maintain,[x] Hiểu rõ hơn về các hoạt động và đơn vị kinh doanh tạo ra giá trị,[] Tăng cường sự chú ý đến khách hàng bằng các quy trình tương tác với khách hàng,[] Dịch vụ tốt hơn bằng cách tập trung vào chăm sóc khách hàng
+265,DMP là gì,11,[] Dependent Manifest Platform,[] Destination Management Platform,[x] Data Management Platform,[] Direction Multiple Platform
+266,Lợi ích của DMP,11,[] Giúp quản lý công việc của doanh nghiệp,[] Tăng hiệu suất của quá trình kiểm thử,[] Đưa ra một quy trình thống nhất trong quá trình phát triển sản phẩm,[] Tạo ra kết quả liên tục
+267,Đâu là nguyên liệu chính cho CRM,11,[x]THông tin,[]Quy trình,[]Công nghệ,[]Con người
+268,Ưu diểm của CDP so với CRM,11,[x]Xử lý được nhiều loại dữ liệu,[]Tiết kiệm chi phí,[]Tiếp cận dễ hơn,
+269,CDP là viết tắt của ?,11,[x] Customer Data Platforms,[] Custormer Detail Platform,[] Center Data Platform,[] Center Detail Platform
+270,Chọn phát biểu đúng về CRM,11,[x] Yêu cầu bảo trì thủ công và không dễ dàng mở rộng cho cá nhân hoá nội dung.,"[] Mục đích sử dụng chính là dữ liệu của bên thứ nhất, dựa trên danh tính khách hàng thực như PII",[] Sử dụng chính vào việc tổng hợp và tổ chức dữ liệu của bên thứ 2 và thứ 3 thứ 1,[] Không đáp án nào đúng
+271,Đâu không phải là giải pháp của CRM?,11,[x] Bảo mật thông tin,[] Tự động hóa lực lượng khách hàng,[] Hỗ trợ khách hàng,[] Cộng tác
+272,Đâu không phải là thành phần tĩnh cầu thành chiến lược CNTT?,11,[x] Operating Structure,[ ] Staffing And Roles,[ ] IT Function Structure,[ ] Operating Model
+273,Chọn phát biểu không đúng về KDD (Knowledge discovery in databases),11,"[x] Qúa trình tìm kiếm, lấy ra  thông tin hoặc mối quan hệ đã biết trong các cơ sở dữ liệu lớn","[ ] Bao gồm các nhiệm vụ : khai thác kiến thức, thăm dò dữ liệu, xử lý mẫu dữ liệu","[ ] Là một quá trình được sử dụng để tìm kiếm, trích xuất thông tin hữu ích từ khối lượng tài liệu, dữ liệu","[ ] Một quá trình bao gồm việc chuẩn bị dữ liệu và lựa chọn, làm sạch dữ liệu, kết hợp kiến ​​thức trước khi vào tập hợp dữ liệu và giải thích các giải pháp chính xác từ các kết quả quan sát được."
+274,Đâu là mục tiêu chính của AIS?,11,[x] Làm cho máy móc thông minh hơn,[ ] Hiểu trí thông minh là gì,[ ] Làm cho máy móc hữu ích hơn,[ ] Làm cho giải pháp thông minh hơn
+275,Đâu không phải là một loại khung thương mại điện tử,11,[X]  BaaS,[ ] SaaS.,[ ] Open source.,[ ] Headless commerce
+276,Đâu là ý sai về CRM,11,[X] Giúp quản lý hàng tồn,[ ] Tập trung vào tác động chiến lược hơn là tác động đến hoạt động,[ ] Lợi ích nói chung là dài hạn hơn là ngay lập tức,"[ ] Yêu cầu hiểu rằng lợi ích sẽ thực sự xảy ra và đặt ra những kỳ vọng
+thực tế"
+277,Đâu là đặc điểm về CRM Xuất sắc,11,[X] Hiểu rõ ràng về giá trị hiện tại và tiềm năng của khách hàng,"[ ] Định nghĩa khách hàng tồn tại,
+nhưng không có sự đồng thuận
+trong toàn tổ chức","[ ] Giá trị hiện tại được hiểu
+nhưng giá trị tương lai không
+được xem xét tích cực","[ ] Kiến thức về sở thích của
+khách hàng tồn tại nhưng được
+giữ trong silo"
+278,Đâu là đặc điểm về CRM Trung Bình,11,"[X] Thông tin
+có liên quan nhưng
+không đầy đủ","[ ] Không có định nghĩa rõ ràng về
+khách hàng","[ ] Giá trị khách hàng không đo
+lường được","[ ] Không đánh giá cao mong
+muốn và mong đợi của khách
+hàng"
+279,Đâu là đặc điểm về CRM Yếu,11,"[X] Dữ liệu không thể
+có và được tổ
+chức ở các địa điểm khác nhau","[ ] Định nghĩa khách hàng đã
+thống nhất toàn tổ chức và liên quan
+đến chiến lược hiện tại cũng nhưtương lai","[ ] Khả năng ghi nhớ và nhận ra khách hàng và điều chỉnh sản
+phẩm của bạn theo sở thích của họ",[ ] Hiểu rõ ràng về giá trị hiện tại và tiềm năng của khách hàng
+280,Đâu không phải là một thành phần của CRM,11,[X] Sản phẩm,[ ] Thông tin,[ ] Công nghệ,[ ] Con người
+281,Đâu không phải  là một trở ngại trong thành công của CRM,11,[X] Ít khách hàng,[ ] Vấn đề tích hợp,[ ] Không có chiến lược dài hạn,[ ] Dữ liệu không chính xác
+282,DMP là viết tắt của từ gì,11,"[X]Data  Management
+Platform","[ ] Document Management
+Platform","[ ] Data  Management
+Process","[ ] Document  Management
+Process"
+283,Đâu không phải Lợi ích của Data Management Platform,11,[X] Tăng trưởng doanh thu,[ ] DMPs Giúp Hợp nhất Dữ liệu Khách hàng,[ ] Giúp thương hiệu thu hút được đối tượng mục tiêu,"[ ] Hợp lý hóa Quy trình Quản lý Dữ liệu
+•"
+284,CPD là viết tắt của từ gì,11,[X] Customer Data Platform,[ ] Customer Data Process,[ ] Customer Data Procedure,[ ] Customer Data Preparation
+285,Ý nào sau đây là sai,11,"[X] DMP được xây dựng để tìm
+kiếm mặt hàng tiềm năng,","[ ] DMP được xây dựng để tìm
+kiếm khách hàng tiềm năng,
+","[ ] CRM được xây dựng để quản
+lý và nuôi dưỡng khách hàng
+và","[ ] CDP giúp thu hút và cá nhân
+hóa tất cả các giai đoạn của trải
+nghiệm khách hàng"
+286,Đâu không phải là thành phần của CDP Data Flow,11,[X] Preparation,[ ] Data,[ ] Unification,[ ] Segmentation
+287,Đâu là nguyên liệu chính cho CRM,11,[x]THông tin,[]Quy trình,[]Công nghệ,[]Con người
+288,Ưu diểm của CDP so với CRM,11,[x]Xử lý được nhiều loại dữ liệu,[]Tiết kiệm chi phí,[]Tiếp cận dễ hơn,????
+289,"Thuật ngữ ""hàng tồn kho"" có thể bao gồm những gì?",12,[x]nguyên liệu thô,[x]công việc trong quá trình,[x] thành phẩm,[ ]sản phẩm mẫu
+290,Mục đích của việc xác định các chỉ tiêu trước trong kiểm soát hàng tồn kho là gì?,12,[x]Đảm bảo mức tồn kho an toàn,[ ]Giảm sự linh hoạt của quy trình,[ ]Tăng mức tối đa hàng tồn kho,[ ]Loại bỏ mức đặt hàng
+291,Hàng tồn kho chiếm tỷ trọng lớn trong doanh nghiệp ở mức nào?,12,[x]40%-50%,[ ]10%-20%,[ ] 20%-30%,[ ]30%-40%
+292,Tồn kho đóng vai trò gì trong quan hệ giữa sản xuất và tiêu thụ?,12,[x]Là cầu nối giữa sản xuất và tiêu thụ,[ ] Giảm mức tồn kho để tiết kiệm chi phí,[ ]Làm tăng mức tồn kho để nhanh chóng đáp ứng nhu cầu của khách hàng,[ ]Loại bỏ mức tồn kho để tối ưu hóa quy trình sản xuất
+293,Tại sao hàng tồn kho được coi là tài sản hiện tại trong kế toán?,12,[x]Vì công ty thường có ý định bán nó trong một khoảng thời gian ngắn,[ ] Vì nó là tài sản duy nhất của công ty,[ ]Vì công ty đánh giá giá trị theo thị trường,[ ]Vì công ty thường có ý định bán nó trong một khoảng thời gian dài
+294,Hàng tồn kho được hạch toán bằng những phương pháp nào?,12,[x] tính giá nhập trước xuất trước (FIFO),[x]tính giá nhập sau xuất trước (LIFO),[x] tính chi phí bình quân gia quyền,[ ]FIFO và LIFO
+295,Hệ thống kiểm kê định kỳ dựa vào điều gì?,12,[x]Số lượng hàng tồn kho thực tế,[ ]Giá trị hàng tồn kho,[ ]Giá trị thị trường của hàng tồn kho,[ ]Tình trạng kỹ thuật của hàng tồn kho
+296,"Khi tiến hành đếm vật lý trong hệ thống kiểm kê định kỳ, thông tin hàng tồn kho được cập nhật như thế nào?",12,[x]Cập nhật định kỳ,[ ]Không cập nhật,[ ]Cập nhật chỉ khi có sự thay đổi,[ ]Cập nhật liên tục
+297,Công thức nào thường được sử dụng trong kiểm kê định kỳ?,12,[x]COGS = (Hàng tồn kho đầu kỳ + Số hàng mua) - Hàng tồn kho cuối kỳ,[ ]COGS = (Hàng tồn kho cuối kỳ - Hàng tồn kho đầu kỳ) + Số hàng mua,[ ]COGS = Hàng tồn kho cuối kỳ - Hàng tồn kho đầu kỳ - Số hàng mua,[ ] COGS = Hàng tồn kho đầu kỳ + Hàng tồn kho cuối kỳ + Số hàng mua
+298,Khả năng hiển thị theo thời gian thực trong chuỗi cung ứng được thực hiện bằng cách sử dụng những công nghệ nào?,12,"[x]Tự động hóa, cảm biến và phân tích",[ ]Máy tính và máy in,[ ]Đèn LED và loa thông báo,[ ] Máy quét mã vạch và điện thoại di động
+299,EOQ đảm bảo điều gì đối với hàng tồn kho?,12,[x]Đảm bảo hàng tồn kho đáp ứng nhu cầu và giảm thiểu chi phí lưu giữ và lưu kho,[ ] Tăng chi phí lưu giữ và lưu kho,[ ] Giảm chi phí lưu giữ và lưu kho nhưng không đảm bảo hàng tồn kho đáp ứng nhu cầu,[ ]Không có ảnh hưởng gì đối với chi phí lưu giữ và lưu kho
+300,Hệ thống quản lý hàng tồn kho (IMS) theo dõi điều gì?,12,[x]Tất cả các hàng hóa trong mỗi kho và các tài liệu mà kho lưu trữ nó,[ ]Tất cả hàng tồn kho trên tất cả các địa điểm,[ ]Vị trí của từng loại hàng tồn kho trong kho,[ ]Tất cả các loại hàng tồn kho ở mọi vị trí
+301,Hệ thống quản lý kho (WMS) theo dõi điều gì?,12,[x]Vị trí của từng loại hàng tồn kho trong kho,[ ]Tất cả hàng tồn kho trên tất cả các địa điểm,[ ]Tất cả các hàng hóa trong mỗi kho và các tài liệu mà kho lưu trữ nó,[ ]Tất cả các loại hàng tồn kho ở mọi vị trí
+302,Hệ thống quản lý hàng tồn kho (IMS) và hệ thống quản lý kho (WMS) thường làm việc như thế nào?,12,[x]Làm việc cùng nhau,"[ ]Làm việc độc lập, không tương tác",[ ]cái này thực hiện thì cái kia dừng,[ ]không liên quan đến nhau
+303,Khi nào thì IMS và VMS bắt đầu khác nhau,12,[x]Tại cấp độ nâng cao hơn,[ ]Tại các tính năng phân tích chi phí vật liệu tiêu thụ,[ ] Tại việc di chuyển hiệu quả vật liệu trong chính kho,[ ]Tại các tính năng giám sát thời gian thực
+304,Quy trình quản lý kho hàng hóa là gì?,12,[x]Một chuỗi công việc theo dõi và kiểm soát hàng hóa trong kho,[ ]Một danh sách hàng hóa trong kho,[ ]Một bảng cân đối kế toán hàng tồn kho,[ ]Một báo cáo doanh số bán hàng của kho
+305,Mục đích chính của quy trình quản lý kho là gì?,12,[x]Giúp người thực hiện công việc quản lý kho nắm bắt được các bước cần tiến hành và nhiệm vụ từng bước,[ ]Tạo bảng cân đối kế toán hàng tồn kho,[ ]Tăng doanh số bán hàng,[ ]Đảm bảo mọi người đều biết danh sách hàng hóa trong kho
+306,WMS là viết tắt của khái niệm gì?,12,[] Hệ thống quản lý hàng tồn kho,[] Hàng tồn kho,[x] Hệ thống quản lý kho,[] Kho hàng
+307,Quy trình quản lý kho hàng hoá bao gồm bao nhiêu bước?,12,[] 5,[] 6,[x] 7,[] 8
+308,Đâu là các nền tảng cho phép các doanh nghiệp xây dựng các ERP theo lĩnh vực của mình,12,[x] Shopify,[x] Odoo,[x] SAP,[ ] PowerBI
+309,Quy trình quản lý kho tuân theo thứ nào,12,[X] Nhập kho ->  Lưu kho -> Nhặt hàng -> Đóng gói và xuất kho -> Hoàn hàng -> Kiểm hàng -> Thống kê báo cáo,[ ] Nhập kho -> Kiểm hàng -> Hoàn hàng -> Lưu kho -> Nhặt hàng -> Đóng gói và xuất kho -> Thống kê báo cáo,[ ] Nhập kho ->  Lưu kho -> Nhặt hàng -> Đóng gói và xuất kho -> Kiểm hàng -> Hoàn hàng ->  Thống kê báo cáo,[ ] Nhập kho -> Kiểm hàng -> Hoàn hàng ->  Lưu kho -> Nhặt hàng -> Đóng gói và xuất kho -> Kiểm hàng -> Hoàn hàng ->  Thống kê báo cáo
+310,Đóng gói và xuất kho cần đáp ứng mục đích nào,12,[X] Đảm bảo an toàn cho hàng hoá trong quá trình vận chuyển,[X] Tối ưu khối lượng của hàng hóa,[ ] Tăng tính thẩm mĩ cho hàng hoá,[ ] Tăng khối lượng
+311,Một số loại báo cáo kho cần thiết,12,[X] Sổ kho,[X] Báo cáo vượt/dưới định mức,[X] Báo cáo kiểm hàng,[ ] Báo cáo nhà phân phối
+312,Đâu không phải là Mức độ phức tạp WMS,12,[ ] A basic WMS,[ ] An advanced WMS,[ ] A controlled WMS,[X] An infinitive WMS
+313,Lợi ích của hệ thống quản lý kho,12,"[X] Giảm lãng phí, Tối ưu hóa quy trình kho",[X] Giảm lỗi của con người,[ ] Theo dõi kiểm soát chất lượng hàng hoá nhập kho,[X] Tăng tính linh hoạt
+314,Định nghĩa nào sau đây là sai về Enterprise Architecture?,3.1,[]EA là một bản thiết kế khái niệm xác định cấu trúc và hoạt động của các tổ chức doanh nghiệp,[X]EA chỉ liên quan đến việc xây dựng và duy trì hạ tầng công nghệ của doanh nghiệp.,"[]EA là một phương pháp hỗ trợ quá trình quản lý và phát triển toàn diện, chú trọng vào cả hệ thống và quá trình kinh doanh.",[]Mục tiêu của EA là tối ưu hóa hiệu suất tổng thể của doanh nghiệp và đảm bảo rằng hệ thống công nghệ hỗ trợ đáp ứng các mục tiêu chiến lược.
+315,Định nghĩa nào sau đây là đúng về Business Domain?,3.1,[]Miền kinh doanh chủ yếu tập trung vào quy trình thiết kế kiến trúc và phát triển công nghệ cho doanh nghiệp.,"[X]Miền kinh doanh định nghĩa về cấu trúc và hành vi của chức năng kinh doanh, cung cấp sự hiểu biết chung và xác định động lực, chiến lược, mô hình kinh doanh và mục tiêu của tổ chức.",[]Miền kinh doanh chỉ liên quan đến cấu trúc tổ chức và hành vi của con người trong doanh nghiệp.,[]Miền kinh doanh là nền tảng để triển khai thiết kế kiến trúc doanh nghiệp.
+316,"TOGAF dựa trên bốn lĩnh vực chuyên môn có liên quan với nhau, chúng là gì?",3.1,"[]Kiến trúc kinh doanh, Kiến trúc dữ liệu hoặc thông tin, Kiến trúc ứng dụng, Kiến trúc công trình","[X]Kiến trúc kinh doanh, Kiến trúc dữ liệu hoặc thông tin, Kiến trúc ứng dụng, Kiến trúc công nghệ","[]Kiến trúc kinh doanh, Kiến trúc dữ liệu hoặc thông tin, Kiến trúc dịch vụ, Kiến trúc công nghệ","[]Kiến trúc kinh doanh, Kiến trúc dữ liệu hoặc thông tin, Kiến trúc ứng dụng, Kiến trúc công nghệ"
+317,"Kiến trúc doanh nghiệp (EA) có thể được định nghĩa là một bộ tâp hợp các tài liệu đặc biệt (artifacts), các artifacts có tác dụng gì?",3.1,"[X]Mô tả về một tổ chức từ các khía cạnh 
+khác nhau, quan trọng đối với các tác nhân khác nhau liên quan đến 
+việc ra quyết định chiến lược và triển khai các hệ thống CNTT",[]Mô tả về một tổ chức từ các khía cạnh CNTT để đảm bảo kiến trúc của tổ chức,[]Mô tả về một tổ chức từ các khía cạnh kinh doanh để đảm bảo luồng nghiệp vụ của tổ chức,"[]Hỗ trợ các cuộc thảo luận giúp giảm bớt các vấn đề giao tiếp do kiến thức, sở thích và mục tiêu khác nhau của các tác nhân liên quan khác nhau"
+318,Loại tài liệu nào sau đây không phải là EA artifacts?,3.1,[X]Business Reference Models,[]Roadmaps,[]Solution Overviews,[]Landscape Designs
+319,Đâu là một trong những yếu tố chính cần xem xét khi thiết kế kiến trúc của một hệ thống doanh nghiệp?,3.1,[x]Thời gian phản hồi của người dùng,[]Chi phí phát triển ban đầu,[]Quản lý dự án hiệu quả,[]Sức mạnh xử lý của máy chủ
+320,"Trong việc xác định kiến trúc hệ thống, khái niệm nào mô tả sự chia nhỏ của hệ thống thành các thành phần nhỏ hơn để dễ dàng quản lý?",3.1,[x]Modularization (Modular hóa),[]Abstraction (Trừu tượng hóa),[]Decentralization (Phân tán),[]Homogenization (Đồng nhất hóa)
+321,"Theo kiến thức về kiến trúc doanh nghiệp, điều gì làm nên một kiến trúc hệ thống thành công?",3.1,[x]Sự linh hoạt và mở rộng,[]Sự tối ưu hóa chi phí,[]Sự đồng nhất của công nghệ,[]Sự tập trung vào giao diện người dùng
+322,Enterprise Architecture (EA) là gì?,3.1,[]Công nghệ thông tin trong doanh nghiệp,[x]Phương pháp quản lý tổng thể của doanh nghiệp,[]Thiết kế các ứng dụng di động,[] Tất cả các phương án trên
+323,Lợi ích chính của việc triển khai Kiến trúc Doanh nghiệp(EA) là gì?,3.1,[]Tăng cường tính linh hoạt và khả năng đổi mới,[]Giảm chi phí và tăng hiệu quả,[x]Cả hai A và B,[]Không có lợi ích gì đặc biệt
+324,Có bao nhiêu lĩnh vực kiến trúc domain of EA được chính thức đề xuất,3.1,4,3,2,1
+325,Đâu không phải là 1 EA framework ?,3.1,[x]BADAF,[]TOGAF,[]MODAF,[]Zachman
+326,Đâu không phải là miền kiến trúc của TOGAF,3.1,[x]Software Architecture,[]Business Architeture,[]Data Architecture,[]TechnologyArchitec
+327,"Trong TOGAF , một ví dụ về artifacts là gì",3.1,[x]Architecture vision document,[]UML,[]Scrum Board,[]SQL
+328,Phát biểu nào sau đây là đúng về hệ thống thông tin (HTTT) và công nghệ thông tin (CNTT) trong doanh nghiệp?,4.1,[x] CNTT là một phần của HTTT,[x] CNTT bao gồm phần cứng và phần mềm,[] HTTT là một phần của CNTT,"[] CNTT bao gồm phần cứng, phần mềm và con người"
+329,Hệ điều hành Windows là một ví dụ về thành phần nào của hệ thống thông tin?,4.1,[]Phần cứng,[x]Phần mềm,[]Dữ liệu,[]Thủ tục
+330,Vai trò của Kiến trúc ứng dụng trong hệ thống thông tin là?,4.1,[x] Mô tả cấu trúc các ứng dụng,[] Định nghĩa dữ liệu của doanh nghiệp,[] Xác định cơ sở hạ tầng công nghệ,[] Tạo bản đồ quan hệ giữa các thực thể
+331,Tại sao Kiến trúc Hệ thống thông tin ISA được xem là thuận lợi cho việc chia sẻ thông tin đơn vị kinh doanh trong tổ chức?,4.1,"[x] Vì các mô hình được phát triển từ 
+quan điểm toàn doanh nghiệp","[] Dễ dàng tích hợp dữ liệu 
+của công ty vào môi trường hệ thống","[] Cung cấp “ lộ trình ” phân tích , thiết kế và thực hiện","[] Thông qua  Mô hình Dữ liệu Doanh nghiệp đánh giá hoạt động hiện có
+và lập kế hoạch tái thiết kế thành dữ liệu cấu trúc tích hợp"
+332,Hệ thống thông tin (IS) đóng vai trò quan trọng trong việc nào sau đây?,4.1,[x] Cung cấp thông tin để hỗ trợ quản lý và ra quyết định kinh doanh,[ ] Chỉ cung cấp dịch vụ cho khách hàng,[ ] Chỉ hỗ trợ quản lý nguồn nhân lực,[ ] Chỉ thu thập dữ liệu từ một nguồn duy nhất
+333,Các thành phần cơ bản của hệ thống thông tin (IS) bao gồm những gì?,4.1,"[x] Cơ sở dữ liệu, phần mềm ứng dụng, phần cứng máy tính, người sử dụng và quy trình",[ ] Chỉ người sử dụng,[ ] Chỉ cơ sở dữ liệu,[ ] Chỉ phần mềm ứng dụng
+334,Kiến trúc ứng dụng là gì?,4.1,[x] Một bản thiết kế cung cấp hướng dẫn về cách các thành phần phần mềm kết hợp với nhau,[ ] Một loại phần mềm chỉ có thể chạy trên thiết bị di động,[ ] Chỉ mô tả về việc sử dụng các ứng dụng web,[ ] Đơn giản là giao diện người dùng của các ứng dụng
+335,Mục tiêu chính của kiến trúc ứng dụng là gì?,4.1,[x] Hỗ trợ mô tả cách các thành phần phần mềm liên kết và hoạt động cùng nhau để đáp ứng mục tiêu kinh doanh,[ ] Đơn giản là tạo ra các ứng dụng có giao diện đẹp,[ ] Chỉ xác định ngôn ngữ lập trình sẽ được sử dụng,[ ] Chỉ tối ưu hóa hiệu suất phần cứng
+336,Các yếu tố quan trọng trong kiến trúc ứng dụng bao gồm:,4.1,"[x] Tính linh hoạt, hiệu suất, bảo mật, tính mô-đun và tương tác người dùng",[ ] Chỉ tính linh hoạt,[ ] Chỉ hiệu suất cao,[ ] Chỉ tốc độ xử lý nhanh
+337,Đâu không phải nhược điểm của hệ thống ERP?,8.1,[] Chi phí chuyển đổi dữ liệu,[x] Không cần đào tạo,[] Bảo trì,[] Chi phí hệ thống
+338,Đâu là phân loại e-commerce theo bản chất của giao dịch?,10.1,[] Doanh nghiệp với doanh nghiệp (B2B),[] Doanh nghiệp với người tiêu dùng (B2C),[] Người tiêu dùng với người tiêu dùng (C2C),[x] Tất cả phương án trên
+339,Đâu không phải là một nền tảng tương mại điện tử?,10.1,[x] SaaS,[] Bigcommerce,[] Shopify,[] Magento
+340,Các bước triển khai EA nào sau đây là đúng?,3.2,[X]Khởi tạo => Hiện trạng => Phát triển kiến trúc mục tiêu => Kế hoạch chuyển đổi kiến trúc => Kế hoạch thực hiện,[]Khởi tạo => Hiện trạng => Phát triển kiến trúc mục tiêu => Kế hoạch thực hiện,[]Khởi tạo => Phát triển kiến trúc mục tiêu => Kế hoạch chuyển đổi kiến trúc => Kế hoạch thực hiện,[]Khởi tạo => Hiện trạng => Phát triển kiến trúc mục tiêu  => Kế hoạch thực hiện => Kế hoạch chuyển đổi kiến trúc
+341,Nhóm tài liệu artifacts hướng về kinh doanh không bao gồm?,3.2,[X]Landscapes,[]Considerations,[]Visions,[]Outlines
+342,"Considerations là nhóm tài liệu hướng quy tắc kinh doanh, phát biểu nào sau đây về nó là sai?",3.2,"[X]Được xây dựng chỉ một lần khi bắt đầu. Dù không cập nhật, artifacts vẫn duy trì tính liên tục và phản ánh chính xác ngữ cảnh kinh doanh.","[]Là tập hợp các quy tắc khái niệm và xem xét cơ bản quan trọng, chủ yếu tập trung vào cách doanh nghiệp hoạt động và có liên quan đến lĩnh vực Công nghệ Thông tin.","[]Hỗ trợ đạt được sự đồng thuận về các nguyên tắc cơ bản, giá trị, hướng đi và mục tiêu trong tổ chức.","[]Cải thiện sự nhất quán tổng thể giữa doanh nghiệp và Công nghệ Thông tin, giúp tăng cường hiệu suất và sự linh hoạt trong quyết định và thực thi kiến trúc."
+343,"Technology Reference Model (TRM) là một loại tài liệu hướng Công nghệ thông tin, tài liệu đó cho ta biết gì?",3.2,[X]Cung cấp một tập hợp các tiêu chuẩn và hướng dẫn để phát triển và quản lý các kiến trúc công nghệ trong một tổ chức. Nó hoạt động như một khuôn mẫu hoặc nền tảng chung để đảm bảo rằng các kiến trúc công nghệ được xây dựng một cách nhất quán và phù hợp với các mục tiêu và chiến lược của tổ chức.,[]Các quy định dành riêng cho CNTT hoặc các phương pháp hay nhất cần tuân theo trong tất cả các dự án CNTT được nhóm theo lĩnh vực công nghệ của chúng,[]Mô tả tổng quan và chi tiết ở mức độ cao về các giải pháp Công nghệ Thông tin (IT) cụ thể được đề xuất cho doanh nghiệp,[]Những bản đồ cấu trúc và đồ họa mô tả toàn bộ các dự án IT được kế hoạch trong các lĩnh vực kinh doanh cụ thể mà mang lại giá trị kinh doanh trực tiếp
+344,Trong 6 loại EA artifacts cơ bản đâu thuộc về nhóm Quy tắc hướng kinh doanh,3.2,[x] Tầm nhìn(Visions),[] Cảnh quan(Landscapes),[x] Phác thảo(Outlines),[] Thiết kế(Designs)
+345,3 giai đoạn cơ sở TOGAF ADM,3.2,[] ABC,[x] BCD,[] CDE,[] DEF
+346,Giai đoạn nào Hoàn thiện Roadmap Kiến trúc và hỗ trợ và thực hiện Kế hoạch migration,3.2,[] A - Tầm nhìn kiến ​trúc,[] C - Kiến trúc Hệ thống  thông tin,[x] F - Lập kế hoạch thay đổ,[] H - Quản lý thay đổi kiến ​trúc
+347,Tác dụng của Roadmaps là gì,3.2,[x] cung cấp các quan diểm có cấu trúc về  các khoản đầu tư CNTT  trong tương lai  được lên kế hoạch  với các mốc thời gian dự kiến ​của chúng,"[]mô tả các kết nối cấp cao giữa các ứng dụng, cơ sở dữ liệu, nền tảng, hệ thống","[]mô tả các dự án CNTT cụ thể theo hướng kinh doanh ngắn gọn, thường bao gồm kiến ​trúc cấp cao của chúng, giá trị kinh doanh dự kiến, ước tính chi phí, rủi ro và thời hạn",[]cung cấp các công nghệ có sẵn được tiêu chuẩn hóa để sử dụng trong tất cả các dự án CNTT
+348,Trọng tâm chính của thực hành EA là gì,3.2,[] tài liệu,[] công nghệ,[x] con người,[] qui tắc
+349,Các bước Triển khai EA,3.2,"[x]1 Khởi tạo, 2 Hiện trạng, 3 Phát triển KT mục tiêu, 4 Kế hoạch chuyển đổi kiến trúc, 5 Kế hoạch thực hiện","[]1 Hiện trạng, 2 Khởi tạo, 3 Phát triển KT mục tiêu, 4 Kế hoạch chuyển đổi kiến trúc, 5 Kế hoạch thực hiện","[]1 Hiện trạng, 2 Phát triển KT mục tiêu, 3 Kế hoạch chuyển đổi kiến trúc, 4 Kế hoạch thực hiện, 5 Khởi tạo","[]1 Hiện trạng, 2 Khởi tạo, 3 Kế hoạch chuyển đổi kiến trúc, 4 Kế hoạch thực hiện, 5 Phát triển KT mục tiêu"
+350,Mục đích kiến trúc TOGAF ADM,3.2,[]Giảm tích hợp và khả năng tương tác phức tạp và tăng tính linh hoạt cho sự thay đổi doanh nghiệp,[]Lập kế hoạch và quản lý Kiến trúc doanh nghiệp phải thống nhất và có định hướng nhằm chi phối trên toàn doanh nghiệp,[x]Cho phép giao tiếp hiệu quả và hiệu quả với người dùng / quản lý / khách hàng / nhà cung cấp,[]Tái sử dụng các giải pháp chung
+351,Tính 2 mặt ngầm của EA artifacts được biểu hiện ở,3.2,[]khi các phần khác nhau của EA artifacts có liên quan đến các nhóm tác nhân khác nhau,[x]khi các phần tương tự của EA artifacts có liên quan đến các nhóm tác nhân khác nhau,[]khi các phần khác nhau của EA artifacts có liên quan đến các nhóm tác nhân tương tự,[]khi các phần tương tự của EA artifacts có liên quan đến các nhóm tác nhân tương tự
+352,Quy tắc nào không phải quy tắc tập trung vào CNTT,3.2,[x]Outlines,[]Standards,[]Landscapes,[]Designs
+353,Giai đoạn nào chịu trách nhiệm xây dựng chiến lược triển khai và kế hoạch triển khai kiến trúc?,3.2,[x]E,[]D,[]B,[]C
+354,Giai đoạn nào tập trung vào việc quản lý sự thay đổi của kiến trúc trong quá trình triển khai?,3.2,[x]H,[]E,[]F,[]G
+355,Các giai đoạn trong ADM có bắt buộc không,3.2,"[x]Không, chỉ cần thực hiện một số giai đoạn cụ thể.","[]Có, tất cả các giai đoạn đều phải được thực hiện.","[]Có, nhưng có thể lựa chọn thứ tự thực hiện","[]Không, tự do lựa chọn giai đoạn mình thích"
+356,Tính 2 mặt ngầm của EA artifacts được biểu hiện ở,3.2,[]khi các phần khác nhau của EA artifacts có liên quan đến các nhóm tác nhân khác nhau,[x]khi các phần tương tự của EA artifacts có liên quan đến các nhóm tác nhân khác nhau,[]khi các phần khác nhau của EA artifacts có liên quan đến các nhóm tác nhân tương tự,[]khi các phần tương tự của EA artifacts có liên quan đến các nhóm tác nhân tương tự
+357,Tại sao các hệ thống thông tin được phân thành các loại hoặc nhóm khác nhau?,4.2,[]Để tạo sự đa dạng trong doanh nghiệp,[X]Để phân chia trách nhiệm và chức năng,[]Để tăng tính linh hoạt trong hoạt động kinh doanh,[]Không có lý do cụ thể
+358,Hệ thống thông tin hỗ trợ cấp độ nào của hệ thống phân cấp kinh doanh,4.2,Ra quyết định chiến lược,[X] Ra quyết định mang tính chiến thuật,Quy trình kinh doanh,
+359,Loại Hệ thống thông tin nào sẽ bao gồm hệ thống ATM hoặc điểm bán hàng?,4.2,[X] Hệ thống xử lý giao dịch,Hệ thống hỗ trợ quyết định,Hệ Thống Điều Hành Thông Tin,
+360,Loại báo cáo nào thường được tạo bởi Hệ thống thông tin quản lý?,4.2,[X] Báo cáo tài chính,Kế hoạch chiến lược,Thống kê sản xuất,
+361,ERP là viết tắt của,4.2,[X] Enterprise Resource Planning,Executive Reporting Portal,Enterprise Rewards Program,
+362,Hệ chuyên gia thuộc loại nào:,4.2,Hệ thống xử lý giao dịch,[X] Hệ thống hỗ trợ quyết định,Hệ Thống Điều Hành Thông Tin,
+363,Một số thành phần phổ biến của Hệ thống cộng tác doanh nghiệp là gì?,4.2,"[X] Email, chat apps, file sharing","dashboards, reports, analytics","accounting, payroll, inventory",
+364,Business actor là gì?,4.2,[X]Một thực thể tổ chức có khả năng thực hiện hành vi.,[]Một cá nhân tham gia vào một bối cảnh kinh doanh cụ thể.,[]Một nhóm người và tài nguyên tồn tại lâu dài trong tổ chức.,[]Một khách hàng hoặc nhân viên trong doanh nghiệp.
+365,Transaction Processing System (TPS) - Hệ thống xử lý giao dịch có chức năng gì?,4.2,"[X]Giúp quản lý giao dịch, ghi nhận dữ liệu trong hệ thống",[]Phân tích dữ liệu dài hạn và đưa ra quyết định chiến lược cho doanh nghiệp.,[]Không liên quan đến quá trình giao tiếp và tương tác với các bộ phận khác trong tổ chức.,[]Hỗ trợ quản lý nhân sự và nguồn lực trong tổ chức
+366,Phát biểu nào sau đây đúng với hệ thống hỗ trợ quyết định - Decision Support System (DSS)?,4.2,[X]Hệ thống hỗ trợ quyết định ( DSS ) là một hệ thống thông tin hỗ trợ các hoạt động ra quyết định của doanh nghiệp hoặc tổ chức.,[]Hệ thống hỗ trợ quyết định (DSS) chủ yếu được thiết kế để ghi chép và xử lý thông tin về các giao dịch kinh doanh hàng ngày của một tổ chức.,[]DSS không liên quan đến quá trình giao tiếp và tương tác với các bộ phận khác trong tổ chức.,[]Hỗ trợ quản lý nhân sự và nguồn lực trong tổ chức
+367,Mục đích của hệ thống thông tin doanh nghiệp là gì?,4.2,[X]Hệ thống thông tin doanh nghiệp cung cấp một hệ thống duy nhất đóng vai trò trung tâm trong tổ chức nhằm đảm bảo thông tin có thể được chia sẻ trên tất cả các cấp chức năng và hệ thống phân cấp quản lý,[]Tập trung chủ yếu vào việc giữ và lưu trữ dữ liệu của doanh nghiệp.,[]Hỗ trợ chủ yếu quá trình sản xuất và sản phẩm của doanh nghiệp.,[]Dựa chủ yếu vào việc giải quyết các vấn đề nhỏ và hằng ngày của doanh nghiệp.
+368,Danh sách nào dưới đây chỉ bao gồm các hệ thống thông tin vận hành?,4.2,"[x] PCS, TPS, ECS","[] MIS, DSS, EIS","[] PCS, TPS, MIS","[] DSS, PCS, ECS"
+369,Hệ thống kinh doanh là,4.2,[x]Là một nhóm các yêu tố hoặc nhiệm vụ phu thuộc nhau,[]Một thực thể có khả năng thực hiện hành vi,[]Một hệ thống vận hành các phần của bộ máy,[]Một bộ phận trong kinh doanh
+370,Quy trình nào hiệu quả nhất trong quy trình nghiệp vụ kinh daonh,4.2,[x]Quy tình chức năng chéo,[]Quy trình riêng lẻ,[]Quy trình dọc,
+371,Hệ thống kinh doanh là,4.2,[x]Là một nhóm các yêu tố hoặc nhiệm vụ phu thuộc nhau,[]Một thực thể có khả năng thực hiện hành vi,[]Một hệ thống vận hành các phần của bộ máy,[]Một bộ phận trong kinh doanh
+372,Quy trình nào hiệu quả nhất trong quy trình nghiệp vụ kinh daonh,4.2,[x]Quy tình chức năng chéo,[]Quy trình riêng lẻ,[]Quy trình dọc,
+373,Đâu không phải là module chức năng chính của SAP?,8.2,[x] Quản lý IS,[] Quản lý chi phí vốn nhân lực,[] Quản lý chất lượng,[] Bảo trì thiết bị
+374,Odoo là phần mềm kinh doanh tất cả trong một bao gồm:,8.2,[x] Tất cả các đáp án trên,[] CRM,[] Trang web/Thương mại điện tử,[] Thanh toán
+375,Shopify là gì?,10.2,[x] Một nền tảng thương mại điện tử,[ ] Một loại ứng dụng xem phim trực tuyến,[ ] Một ứng dụng di động,[ ] Là tên của một game
+376,Ai có thể sử dụng Shopify?,10.2,"[x] Mọi người muốn bắt đầu kinh doanh trực tuyến, từ người mới bắt đầu đến doanh nghiệp lớn",[ ] Chỉ những người không quen với công nghệ,[ ] Chỉ các doanh nghiệp lớn,[ ] Chỉ người dùng có kiến thức về lập trình
+377,Chức năng chính của Shopify là gì?,10.2,[x] Hỗ trợ xây dựng và quản lý cửa hàng trực tuyến,[ ] Phân tích dữ liệu địa lý,[ ] Tạo ra ứng dụng di động,[ ] Tạo ra máy chơi game
+378,Shopify cung cấp những tính năng nào cho người dùng?,10.2,"[x] Giao diện dễ sử dụng, quản lý sản phẩm, hệ thống thanh toán, quản lý đơn hàng, báo cáo và phân tích",[ ] Chỉ quảng cáo trực tuyến,[ ] Chỉ chia sẻ hình ảnh và video,[ ] Chỉ kết nối mạng xã hội
+379,"Trong phương pháp phát triển kiến trúc TOGAF ADM, sơ đồ năng lực được sử dụng trong pha nào?",3.3,[x] Pha B: Kiến trúc nghiệp vụ,[] Pha A: Tầm nhìn kiến trúc,[] Pha C: Kiến trúc hệ thống thông tin,Pha D: Kiến trúc công nghệ
+380,BPM là viết tắt của,,[x] Business Process Management,[] Business Program Manager,[] Business Program Management,[] Business Process Manager
+381,Các thành phần BPM,,"[X] Phân tích quy trình, Con người, Công nghệ","[] Phân tích hệ thống, Con người, Công nghệ","[]  Con người, Công nghệ",[] Cả 3 đều sai
+382,ERP là viết tắt của gì,,[x] Enterprise Resource Planning,[] Enterprise Resource Program,[] Enterprise Resource Process,[] Enterprise Resource Plan
+383,ERP là gì,,[x] Là một loại phần mềm quản lý doanh nghiệp,[] Là một bước trong quản lý doanh nghiệp,[] Là một tiến trình quản lý doanh nghiệp,[] Cả 3 đáp án đều sai
+384,Đâu là modul chức năng chính của SAP,,[x] Lập kế hoạch sản xuất,[] Quản lý nhân lực,[] Quản lý kho,[] Tối ưu kế hoạch
+385,SAP là viết tắt của gì,,[x] System Application Programing,[]  System Application Program,[]  System Application Public,[]  System Application Process
+386,Financial Accounting được viết tắt là gì,,[x] FI,[] FA,[] FIA,[] FIAC
+387,Đâu không phải là chức năng của FI,,"[x] Báo cáo Quản lý nội bộ
+","[] Báo cáo pháp lý hoặc bên ngoài
+","[] Báo cáo theo tài khoản
+",[] Báo cáo thu nhập
+388,Đâu là chức năng của CO,,[x] Báo cáo Quản lý nội bộ,"[] Báo cáo pháp lý hoặc bên ngoài
+","[] Báo cáo theo tài khoản
+",[] Báo cáo thu nhập
+389,Đâu là chức năng của FI,,[x] Báo cáo pháp lý hoặc bên ngoài,[] Báo cáo Quản lý nội bộ,[] Báo cáo Trung tâm Chi phí,[] Tất cả đều đúng
+390,Master Data - BOM được tạo ra a dưới dạng mối quan hệ giữa,,[x] một nguyên liệu chính và một nguyên liệu phụ,[] Nhiều nguyên liệu chính và nhiều nguyên liệu phụ,[] Nhiều nguyên liệu chính và một nguyên liệu phụ,[] Tất cả đều sai
+391,"Hệ thống ERP Odoo là gì
+",,"[x] là phần mềm quản lý tất cả trong một cung 
+cấp nhiều ứng dụng kinh doanh tạo thành một bộ ứng dụng 
+quản lý doanh nghiệp hoàn chỉnh nhắm đến các công ty thuộc 
+mọi quy mô.
+","[] là phần mềm cung 
+cấp nhiều ứng dụng kinh doanh tạo thành một bộ ứng dụng 
+quản lý doanh nghiệp hoàn chỉnh nhắm đến các công ty thuộc 
+mọi quy mô.
+","[] là phần mềm cung 
+cấp nhiều kế hoạch kinh doanh tạo thành một bộ ứng dụng 
+quản lý doanh nghiệp hoàn chỉnh nhắm đến các công ty thuộc 
+mọi quy mô.
+",[] Tất cả đều sai
+392,Phát biểu đúng ?,,[x]  Hệ thống ERP củng cố và tập trung tất cả thông tin,[]  Hệ thống ERP thu thập và tập trung tất cả thông tin,[]  Hệ thống ERP thu thập và củng cố tất cả thông tin,[]  A và B đều đúng
+393,Các bước trong khung MODAF,,"[] Xác định những gì sẽ được mô hình hóa
+",[] Xây dựng mô hình doanh nghiệp,"[] Các yếu tố mô hình và các mối quan hệ
+trong mô hình doanh nghiệp
+",[x] Cả 3 đáp án trên đều đúng
+394,Vai trò của kiến trúc sư phần mềm,,[x] Người chuyển tiếp giữa nhóm  phát triển phần mềm và doanh nghiệp,[x] Là người lãnh đạo để đảm bảo rằng các yêu cầu của bạn sẽ được đáp ứng,[] Giữ cho doanh nghiệp hoạt động trơn tru,[] là người đảm bảo chiến lược CNTT phù hợp với mục tiêu kinh doanh của tổ chức
+395,Đâu là không phải đặc điểm của hệ thống ERP,,[] Cơ sở dữ liệu chung,[] UX/UI nhất quán,[x] Tích hợp quy trình quản lý,[] Phân tích dữ liệu
+396,Đâu không phải nhược điểm của hệ thống ERP,,[] Chi phí hệ thống cao,[] Nhu cầu đào tạo,[] Chi phí chuyển đổi dữ liệu,[x] Thiếu tính linh hoạt
+397,Kiến trúc Doanh nghiệp(EA) bao gồm những lĩnh vực nào sau đây?,,"[]Tài chính, tiếp thị, tuyển dụng","[x]Kinh doanh, dữ liệu, công nghệ","[]Bán hàng, Dịch vụ, Nghiên cứu","[]Sản xuất, Đảm bảo chất lượng, Chuỗi cung ứng"
+398,Thách thức chính mà các tổ chức thường gặp khi triển khai Enterprise Architecture là gì,,[]Thiếu nguồn lực tài chính,[]Khó khăn trong việc thay đổi văn hóa tổ chức,[]Thiếu chuyên gia kiến trúc,[x]Tất cả các phương án trên
